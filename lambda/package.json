@@ -1,0 +1,14 @@
+{
+  "name": "telegram-dialogflow-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@google-cloud/dialogflow-cx": "^4.0.0",
+    "axios": "^1.6.0",
+    "express": "^4.18.2",
+    "form-data": "^4.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}

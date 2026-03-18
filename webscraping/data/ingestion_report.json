@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-03-16T16:33:23.851585+00:00",
+  "total_records": 76,
+  "dated_records": 11,
+  "undated_records": 65,
+  "sources": {
+    "eventbrite": {
+      "raw_count": 21,
+      "normalized_count": 21
+    },
+    "agewellsg": {
+      "raw_count": 5,
+      "normalized_count": 5
+    },
+    "lionsbefrienders": {
+      "raw_count": 9,
+      "normalized_count": 9
+    },
+    "onepa": {
+      "raw_count": 0,
+      "normalized_count": 0
+    },
+    "meetup": {
+      "raw_count": 12,
+      "normalized_count": 12
+    },
+    "timeoutsg": {
+      "raw_count": 39,
+      "normalized_count": 39
+    }
+  },
+  "outputs": {
+    "json": "c:\\Users\\dylan\\SMU\\Y4S2\\AIH\\Project\\webscraping\\data\\activities_latest.json",
+    "csv": "c:\\Users\\dylan\\SMU\\Y4S2\\AIH\\Project\\webscraping\\data\\activities_latest.csv",
+    "jsonl": "c:\\Users\\dylan\\SMU\\Y4S2\\AIH\\Project\\webscraping\\data\\activities_latest_rag.jsonl"
+  }
+}
