@@ -5,9 +5,8 @@ import os
 import random
 import re
 import time
-from datetime import datetime, timezone
-from urllib.parse import urlparse
-from urllib.parse import urljoin
+from datetime import datetime, timedelta, timezone
+from urllib.parse import urljoin, urlparse
 
 import pandas as pd
 import requests
@@ -16,6 +15,7 @@ from google.cloud import storage
 import vertexai
 from vertexai.generative_models import GenerationConfig
 from vertexai.generative_models import GenerativeModel
+
 
 
 BUCKET_NAME = os.environ.get("GCS_BUCKET_NAME", "")
@@ -64,7 +64,7 @@ SOURCES = [
     },
     {
         "name": "onepa",
-        "url": "https://www.onepa.gov.sg/events",
+        "url": "https://www.onepa.gov.sg/events/search?events=&aoi=Active%20Ageing&sort=rel",
         "parser": "parse_onepa",
     },
     {
@@ -76,6 +76,16 @@ SOURCES = [
         "name": "timeoutsg",
         "url": "https://www.timeout.com/singapore/things-to-do",
         "parser": "parse_timeoutsg",
+    },
+    {
+        "name": "digitalforlife",
+        "url": "https://www.digitalforlife.gov.sg/learn/events/all-events/listing-of-digital-for-life---digital-clubs",
+        "parser": "parse_digitalforlife",
+    },
+    {
+        "name": "healthhub",
+        "url": "https://www.healthhub.sg/programmes/healthy-ageing",
+        "parser": "parse_healthhub",
     },
 ]
 
@@ -414,7 +424,7 @@ def parse_to_iso_datetime(value):
     if day_delta == 0 and (hour, minute) <= (now.hour, now.minute):
         day_delta = 7
 
-    next_date = now + pd.Timedelta(days=day_delta)
+    next_date = now + timedelta(days=day_delta)
     resolved = datetime(
         next_date.year,
         next_date.month,
@@ -646,63 +656,122 @@ def parse_lionsbefrienders(url):
     return events
 
 
+ONEPA_API_URL = "https://www.onepa.gov.sg/pacesapi/eventsearch/searchjson"
+ONEPA_API_PAGE_SIZE = 10
+ONEPA_API_MAX_PAGES = 20
+
+
+_onepa_session = None
+
+
+def _get_onepa_session():
+    global _onepa_session
+    if _onepa_session is None:
+        _onepa_session = requests.Session()
+        _onepa_session.headers.update({
+            **HEADERS,
+            "Accept": "application/json, text/plain, */*",
+            "Referer": "https://www.onepa.gov.sg/events/search",
+        })
+    return _onepa_session
+
+
+def _fetch_onepa_api_page(page, category="Active Ageing", sort="rel", retries=3):
+    """Fetch a single page of results from the onePA event search API."""
+    session = _get_onepa_session()
+    params = {"aoi": category, "sort": sort, "page": str(page)}
+    last_error = None
+    for attempt in range(1, retries + 1):
+        try:
+            time.sleep(random.uniform(1.5, 3.0))
+            resp = session.get(ONEPA_API_URL, params=params, timeout=15)
+            resp.raise_for_status()
+            data = resp.json()
+            inner = data.get("data", data) if isinstance(data, dict) else {}
+            results = inner.get("results", []) or []
+            total = inner.get("totalResults", 0) or 0
+            return results, total
+        except Exception as exc:
+            last_error = exc
+            if attempt < retries:
+                wait = 2.0 ** attempt + random.uniform(0, 1)
+                print(f"[WARN] onePA API page {page} attempt {attempt} failed: {exc}. Retrying in {wait:.1f}s...")
+                time.sleep(wait)
+    print(f"[WARN] onePA API page {page} failed after {retries} attempts: {last_error}")
+    return [], 0
+
+
 def parse_onepa(url):
-    response = safe_get(url)
-    if not response:
+    all_items = []
+    seen_ids = set()
+
+    first_page, total_results = _fetch_onepa_api_page(1)
+    if not first_page:
+        print("[WARN] onePA: API returned no results on page 1.")
         return []
 
-    soup = BeautifulSoup(response.content, "html.parser")
+    all_items.extend(first_page)
+    total_pages = min(
+        (total_results + ONEPA_API_PAGE_SIZE - 1) // ONEPA_API_PAGE_SIZE,
+        ONEPA_API_MAX_PAGES,
+    )
+    print(f"[INFO] onePA: API reports {total_results} total results across ~{total_pages} pages.")
+
+    for page in range(2, total_pages + 1):
+        page_results, _ = _fetch_onepa_api_page(page)
+        if not page_results:
+            break
+        all_items.extend(page_results)
+
     events = []
-    seen_urls = set()
-
-    for link in soup.find_all("a", href=True):
-        href = link["href"]
-        if "/events/" not in href or any(skip in href for skip in ["/events/search", "/events?", "/events#"]):
+    base_url = "https://www.onepa.gov.sg"
+    for item in all_items:
+        if not isinstance(item, dict):
             continue
 
-        event_url = href if href.startswith("http") else urljoin(url, href)
-        if event_url in seen_urls:
+        event_id = str(item.get("eventId", ""))
+        if not event_id or event_id in seen_ids:
             continue
-        seen_urls.add(event_url)
+        seen_ids.add(event_id)
 
-        title = normalize_space(link.get_text(" ", strip=True))
-        title = re.sub(r"^EVENT\s+", "", title, flags=re.IGNORECASE)
-        if not title:
-            parent = link.find_parent(["article", "li", "div", "section"]) or link
-            context = normalize_space(parent.get_text(" ", strip=True))
-            title_match = re.search(r"EVENT\s+(.*?)\s+Ref\s*Code", context, flags=re.IGNORECASE)
-            if title_match:
-                title = normalize_space(title_match.group(1))
+        title = normalize_space(item.get("title", ""))
         if not title:
             continue
 
-        parent = link.find_parent(["article", "li", "div", "section"]) or link
-        context = normalize_space(parent.get_text(" ", strip=True))
-        date_text = extract_date_text(context)
-
-        location = "Singapore"
-        location_match = re.search(
-            r"Ref\s*Code\s*:\s*\d+\s*(.*?)\s*\d{1,2}\s+\w+\s+\d{4}",
-            context,
-            flags=re.IGNORECASE,
+        product_url = normalize_space(item.get("productUrl", ""))
+        share_url = normalize_space((item.get("share") or {}).get("url", ""))
+        event_url = share_url or (
+            f"{base_url}{product_url}" if product_url else ""
         )
-        if location_match:
-            candidate = normalize_space(location_match.group(1))
-            if candidate and len(candidate) < 80:
-                location = candidate
+
+        outlet = normalize_space(item.get("outlet", ""))
+        location = outlet or "Singapore"
+
+        start_date = normalize_space(item.get("startDate", ""))
+        session_time = normalize_space(item.get("sessionTime", ""))
+        date_text = start_date
+        if date_text and session_time:
+            date_text = f"{date_text} {session_time}"
+
+        description = normalize_space(
+            (item.get("share") or {}).get("description", "")
+        )
+        if not description:
+            description = "onePA Active Ageing event listing"
 
         events.append(
             {
                 "title": title,
                 "start_datetime_raw": date_text,
                 "location": location,
-                "description": "onePA Active Ageing event listing",
+                "description": description[:300],
                 "url": event_url,
                 "source": "onepa",
                 "source_confidence": "high" if date_text else "medium",
             }
         )
 
+    print(f"[INFO] onePA: extracted {len(events)} events from API.")
     return events
 
 
@@ -904,6 +973,245 @@ def parse_timeoutsg(url):
     return events
 
 
+def parse_digitalforlife(url):
+    response = safe_get(url)
+    if not response:
+        return []
+
+    soup = BeautifulSoup(response.content, "html.parser")
+    events = []
+    seen_urls = set()
+
+    for card in soup.find_all(["article", "div", "li", "section"]):
+        card_text = normalize_space(card.get_text(" ", strip=True))
+        if not card_text or len(card_text) < 20:
+            continue
+
+        card_link = card.find("a", href=True)
+        if not card_link:
+            continue
+        href = card_link["href"]
+        if any(skip in href.lower() for skip in ["privacy", "terms", "contact", "faq", "sitemap"]):
+            continue
+
+        event_url = href if href.startswith("http") else urljoin(url, href)
+        if event_url in seen_urls:
+            continue
+
+        title = normalize_space(card_link.get_text(" ", strip=True))
+        if not title:
+            title = text_from_first(card, ["h2", "h3", "h4", "h5", "strong"], default="")
+        if not title or len(title) < 5:
+            continue
+
+        lower_text = card_text.lower()
+        is_relevant = any(
+            kw in lower_text
+            for kw in ["digital", "club", "senior", "learn", "workshop", "programme", "event"]
+        )
+        if not is_relevant:
+            continue
+
+        seen_urls.add(event_url)
+        date_text = extract_date_text(card_text)
+
+        location = "Singapore"
+        loc_match = re.search(
+            r"(?:venue|location|at|@)\s*[:\-]?\s*(.+?)(?:\s*\||$)",
+            card_text,
+            flags=re.IGNORECASE,
+        )
+        if loc_match:
+            candidate = normalize_space(loc_match.group(1))
+            if candidate and len(candidate) < 80:
+                location = candidate
+
+        description = card_text[:280] if len(card_text) > 30 else "Digital for Life digital club / event listing"
+
+        events.append(
+            {
+                "title": title,
+                "start_datetime_raw": date_text,
+                "location": location,
+                "description": description,
+                "url": event_url,
+                "source": "digitalforlife",
+                "source_confidence": "medium" if date_text else "low",
+            }
+        )
+
+    if events:
+        return events
+
+    for link in soup.find_all("a", href=True):
+        href = link["href"]
+        if any(skip in href.lower() for skip in ["privacy", "terms", "contact", "faq", "sitemap", "#"]):
+            continue
+
+        title = normalize_space(link.get_text(" ", strip=True))
+        if not title or len(title) < 8:
+            continue
+
+        lower_title = title.lower()
+        if not any(kw in lower_title for kw in ["digital", "club", "senior", "learn", "workshop", "event"]):
+            continue
+
+        event_url = href if href.startswith("http") else urljoin(url, href)
+        if event_url in seen_urls:
+            continue
+        seen_urls.add(event_url)
+
+        parent = link.find_parent(["article", "li", "div", "section"]) or link
+        context = normalize_space(parent.get_text(" ", strip=True))
+        date_text = extract_date_text(context)
+
+        events.append(
+            {
+                "title": title,
+                "start_datetime_raw": date_text,
+                "location": "Singapore",
+                "description": "Digital for Life digital club / event listing",
+                "url": event_url,
+                "source": "digitalforlife",
+                "source_confidence": "medium" if date_text else "low",
+            }
+        )
+
+    return events
+
+
+def parse_healthhub(url):
+    response = safe_get(url)
+    if not response:
+        return []
+
+    soup = BeautifulSoup(response.content, "html.parser")
+    events = []
+    seen_urls = set()
+
+    for script in soup.find_all("script", type="application/ld+json"):
+        script_text = normalize_space(script.string or script.get_text(" ", strip=True))
+        if not script_text:
+            continue
+        try:
+            payload = json.loads(script_text)
+        except json.JSONDecodeError:
+            continue
+
+        items = payload if isinstance(payload, list) else [payload]
+        for item in items:
+            if not isinstance(item, dict):
+                continue
+            item_type = normalize_space(item.get("@type", "")).lower()
+            if item_type not in ("event", "course", "article", "webpage"):
+                continue
+            title = normalize_space(item.get("name") or item.get("headline", ""))
+            if not title:
+                continue
+            item_url = normalize_space(item.get("url", ""))
+            if item_url and item_url not in seen_urls:
+                seen_urls.add(item_url)
+                events.append(
+                    {
+                        "title": title,
+                        "start_datetime_raw": normalize_space(item.get("startDate", "")),
+                        "location": "Singapore",
+                        "description": normalize_space(item.get("description", ""))[:300] or "HealthHub healthy ageing programme",
+                        "url": item_url,
+                        "source": "healthhub",
+                        "source_confidence": "medium",
+                    }
+                )
+
+    for card in soup.find_all(["article", "div", "li", "section"]):
+        card_link = card.find("a", href=True)
+        if not card_link:
+            continue
+        href = card_link["href"]
+        if any(skip in href.lower() for skip in ["privacy", "terms", "contact", "faq", "sitemap"]):
+            continue
+
+        event_url = href if href.startswith("http") else urljoin(url, href)
+        if event_url in seen_urls:
+            continue
+
+        card_text = normalize_space(card.get_text(" ", strip=True))
+        lower_text = card_text.lower()
+        is_relevant = any(
+            kw in lower_text
+            for kw in [
+                "ageing", "aging", "senior", "elderly", "health", "exercise",
+                "wellness", "fitness", "programme", "screening", "nutrition",
+            ]
+        )
+        if not is_relevant:
+            continue
+
+        title = normalize_space(card_link.get_text(" ", strip=True))
+        if not title:
+            title = text_from_first(card, ["h2", "h3", "h4", "h5", "strong"], default="")
+        if not title or len(title) < 5:
+            continue
+
+        seen_urls.add(event_url)
+        date_text = extract_date_text(card_text)
+        description = card_text[:280] if len(card_text) > 30 else "HealthHub healthy ageing programme"
+
+        events.append(
+            {
+                "title": title,
+                "start_datetime_raw": date_text,
+                "location": "Singapore",
+                "description": description,
+                "url": event_url,
+                "source": "healthhub",
+                "source_confidence": "medium" if date_text else "low",
+            }
+        )
+
+    if events:
+        return events
+
+    for link in soup.find_all("a", href=True):
+        href = link["href"]
+        if any(skip in href.lower() for skip in ["privacy", "terms", "contact", "faq", "sitemap", "#"]):
+            continue
+
+        title = normalize_space(link.get_text(" ", strip=True))
+        if not title or len(title) < 8:
+            continue
+
+        lower_title = title.lower()
+        if not any(
+            kw in lower_title
+            for kw in ["ageing", "aging", "senior", "health", "exercise", "wellness", "programme", "screening"]
+        ):
+            continue
+
+        event_url = href if href.startswith("http") else urljoin(url, href)
+        if event_url in seen_urls:
+            continue
+        seen_urls.add(event_url)
+
+        parent = link.find_parent(["article", "li", "div", "section"]) or link
+        context = normalize_space(parent.get_text(" ", strip=True))
+        date_text = extract_date_text(context)
+
+        events.append(
+            {
+                "title": title,
+                "start_datetime_raw": date_text,
+                "location": "Singapore",
+                "description": "HealthHub healthy ageing programme",
+                "url": event_url,
+                "source": "healthhub",
+                "source_confidence": "medium" if date_text else "low",
+            }
+        )
+
+    return events
+
+
 PARSERS = {
     "parse_eventbrite": parse_eventbrite,
     "parse_agewellsg": parse_agewellsg,
@@ -912,6 +1220,8 @@ PARSERS = {
     "parse_meetup": parse_meetup,
     "parse_visitsingapore": parse_visitsingapore,
     "parse_timeoutsg": parse_timeoutsg,
+    "parse_digitalforlife": parse_digitalforlife,
+    "parse_healthhub": parse_healthhub,
 }
 
 
@@ -921,8 +1231,18 @@ def ingest_all_sources():
 
     for source in SOURCES:
         parser_name = source["parser"]
-        parser_func = PARSERS[parser_name]
-        raw_events = parser_func(source["url"])
+        parser_func = PARSERS.get(parser_name)
+        if not parser_func:
+            print(f"[WARN] Unknown parser '{parser_name}' for source '{source['name']}', skipping.")
+            source_stats[source["name"]] = {"raw_count": 0, "normalized_count": 0, "error": f"unknown parser: {parser_name}"}
+            continue
+
+        try:
+            raw_events = parser_func(source["url"])
+        except Exception as exc:
+            print(f"[WARN] Parser '{parser_name}' crashed for source '{source['name']}': {exc}")
+            source_stats[source["name"]] = {"raw_count": 0, "normalized_count": 0, "error": str(exc)}
+            continue
 
         normalized = []
         for event in raw_events:
@@ -983,7 +1303,8 @@ def build_rag_record(row):
     category_csv = ", ".join(categories)
 
     content = "\n".join(
-        [
+        line
+        for line in [
             f"Title: {title}" if title else "",
             f"Date: {date_text}" if date_text else "",
             f"Location: {location}" if location else "",
@@ -997,6 +1318,7 @@ def build_rag_record(row):
             f"Rewrite Source: {rewrite_source}",
             "Keywords: senior-friendly, singapore activities",
         ]
+        if line
     ).strip()
 
     raw_bytes = base64.b64encode(content.encode("utf-8")).decode("ascii")
@@ -1152,5 +1474,3 @@ if __name__ == "__main__":
             print("No matching activities in current dataset.")
         else:
             print(recommendations[["title", "start_datetime_raw", "location", "source"]].head(10))
-
-    raise SystemExit(0)
