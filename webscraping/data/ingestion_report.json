@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-03-16T16:33:23.851585+00:00",
-  "total_records": 76,
+  "generated_at": "2026-03-18T03:26:22.464579+00:00",
+  "total_records": 246,
   "dated_records": 11,
-  "undated_records": 65,
+  "undated_records": 235,
+  "tagging": {
+    "llm_enabled": false,
+    "llm_disabled_reason": "",
+    "llm_project": "",
+    "llm_location": "global",
+    "llm_model": "gemini-3.1-pro-preview",
+    "llm_calls_made": 0,
+    "llm_cache_size": 0
+  },
+  "rewrite": {
+    "mode": "deterministic",
+    "llm_enabled": false
+  },
   "sources": {
     "eventbrite": {
       "raw_count": 21,
@@ -17,21 +30,29 @@
       "normalized_count": 9
     },
     "onepa": {
-      "raw_count": 0,
-      "normalized_count": 0
+      "raw_count": 134,
+      "normalized_count": 134
     },
     "meetup": {
       "raw_count": 12,
       "normalized_count": 12
     },
     "timeoutsg": {
-      "raw_count": 39,
-      "normalized_count": 39
+      "raw_count": 38,
+      "normalized_count": 38
+    },
+    "digitalforlife": {
+      "raw_count": 13,
+      "normalized_count": 13
+    },
+    "healthhub": {
+      "raw_count": 55,
+      "normalized_count": 55
     }
   },
   "outputs": {
-    "json": "c:\\Users\\dylan\\SMU\\Y4S2\\AIH\\Project\\webscraping\\data\\activities_latest.json",
-    "csv": "c:\\Users\\dylan\\SMU\\Y4S2\\AIH\\Project\\webscraping\\data\\activities_latest.csv",
-    "jsonl": "c:\\Users\\dylan\\SMU\\Y4S2\\AIH\\Project\\webscraping\\data\\activities_latest_rag.jsonl"
+    "json": "C:\\Users\\Jonathan\\Desktop\\Y4S2\\Ai and Humanity\\kaypoh\\webscraping\\data\\activities_latest.json",
+    "csv": "C:\\Users\\Jonathan\\Desktop\\Y4S2\\Ai and Humanity\\kaypoh\\webscraping\\data\\activities_latest.csv",
+    "jsonl": "C:\\Users\\Jonathan\\Desktop\\Y4S2\\Ai and Humanity\\kaypoh\\webscraping\\data\\activities_latest_rag.jsonl"
   }
 }

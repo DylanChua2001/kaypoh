@@ -1,5 +1,70 @@
 [
   {
+    "activity_id": "d63e0392e576e7ed",
+    "title": "(17 and 24 Apr 2026, Friday) Fengshan SCEC/AAC/YN - Nintendo Switch workshop",
+    "start_datetime_raw": "17 Apr 2026 - 24 Apr 2026 2:30 PM - 4:30 PM",
+    "start_datetime_iso": "",
+    "location": "Fengshan CC",
+    "description": "(17 and 24 Apr 2026, Friday) Fengshan SCEC/AAC/YN - Nintendo Switch workshop",
+    "url": "https://www.onepa.gov.sg/events/17-and-24-apr-2026-friday-fengshan-scec-aac-yn-nintendo-switch-workshop-26530461",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.279465+00:00"
+  },
+  {
+    "activity_id": "48352d0e9314f33b",
+    "title": "(Cheng San AAC) Free Hair Cut for Seniors- Apr 2026",
+    "start_datetime_raw": "24 Apr 2026 2:00 PM - 4:00 PM",
+    "start_datetime_iso": "",
+    "location": "Cheng San CC",
+    "description": "(Cheng San AAC) Free Hair Cut for Seniors- Apr 2026",
+    "url": "https://www.onepa.gov.sg/events/cheng-san-aac-free-hair-cut-for-seniors-apr-2026-69238788",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.249029+00:00"
+  },
+  {
+    "activity_id": "9399908426e7c759",
+    "title": "(Cheng San AAC) Project 100 Seniors",
+    "start_datetime_raw": "01 Dec 2025 - 01 Nov 2026 9:00 AM - 5:00 PM",
+    "start_datetime_iso": "",
+    "location": "Cheng San CC",
+    "description": "(Cheng San AAC) Project 100 Seniors",
+    "url": "https://www.onepa.gov.sg/events/cheng-san-aac-project-100-seniors-20028085",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.182586+00:00"
+  },
+  {
+    "activity_id": "bbf3c5734cbefd11",
+    "title": "(Cheng San Palm RN) LEARN DIGITAL 2026 @ Cheng San Palm RN",
+    "start_datetime_raw": "15 Feb 2026 - 20 Dec 2026 9:30 AM - 11:30 AM",
+    "start_datetime_iso": "",
+    "location": "Cheng San CC",
+    "description": "(Cheng San Palm RN) LEARN DIGITAL 2026 @ Cheng San Palm RN",
+    "url": "https://www.onepa.gov.sg/events/cheng-san-palm-rn-learn-digital-2026-cheng-san-palm-rn-93614799",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.240052+00:00"
+  },
+  {
+    "activity_id": "b696670380982ded",
+    "title": "(Grandeur RN) PA Learn Digital Workshop at Grandeur RN",
+    "start_datetime_raw": "17 May 2026 10:00 AM - 12:00 PM",
+    "start_datetime_iso": "",
+    "location": "Teck Ghee Grandeur RN",
+    "description": "(Grandeur RN) PA Learn Digital Workshop at Grandeur RN",
+    "url": "https://www.onepa.gov.sg/events/grandeur-rn-pa-learn-digital-workshop-at-grandeur-rn-50591041",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.313541+00:00"
+  },
+  {
     "activity_id": "273e1626eb2b4372",
     "title": "101 best things to do in Singapore",
     "start_datetime_raw": "",
@@ -10,7 +75,20 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823132+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
+  },
+  {
+    "activity_id": "006f152ae3a4dafe",
+    "title": "20260227 -20260731 - Friday Karaoke session",
+    "start_datetime_raw": "27 Feb 2026 - 31 Jul 2026 7:00 PM - 9:30 PM",
+    "start_datetime_iso": "",
+    "location": "Clementi Zone 1 RC",
+    "description": "20260227 -20260731 - Friday Karaoke session",
+    "url": "https://www.onepa.gov.sg/events/20260227-20260731-friday-karaoke-session-63014800",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.209875+00:00"
   },
   {
     "activity_id": "a6d2e2e30dbcd8ed",
@@ -23,7 +101,46 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823297+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
+  },
+  {
+    "activity_id": "c2ac67473cc65db1",
+    "title": "24OWLS Presents: Mechatok — Wide Awake Tour",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Pasir Panjang Power Station A",
+    "description": "Eventbrite listing for seniors-related activities",
+    "url": "https://www.eventbrite.sg/e/24owls-presents-mechatok-wide-awake-tour-tickets-1983051535525?aff=ebdssbdestsearch",
+    "source": "eventbrite",
+    "source_confidence": "medium",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:25:23.530709+00:00"
+  },
+  {
+    "activity_id": "c8900721ab103bd3",
+    "title": "AAC Coffee Morning Afternoon Tea (April 2026)",
+    "start_datetime_raw": "06 Apr 2026 9:30 AM - 1:30 PM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh West CC",
+    "description": "AAC Coffee Morning Afternoon Tea (April 2026)",
+    "url": "https://www.onepa.gov.sg/events/aac-coffee-morning-afternoon-tea-april-2026-17079124",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.246029+00:00"
+  },
+  {
+    "activity_id": "b6a7d4fb1adb84e5",
+    "title": "AAC Floor Curling for Seniors 乐龄地壶球游戏 -27.03.26",
+    "start_datetime_raw": "27 Mar 2026 2:30 PM - 4:30 PM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh Central CC",
+    "description": "AAC Floor Curling for Seniors 乐龄地壶球游戏 -27.03.26",
+    "url": "https://www.onepa.gov.sg/events/aac-floor-curling-for-seniors-27-03-26-31411491",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.264115+00:00"
   },
   {
     "activity_id": "72447fc5234618a7",
@@ -36,7 +153,7 @@
     "source": "eventbrite",
     "source_confidence": "medium",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.028156+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.530709+00:00"
   },
   {
     "activity_id": "6be8886fce7c7683",
@@ -49,7 +166,33 @@
     "source": "eventbrite",
     "source_confidence": "medium",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.028462+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.530709+00:00"
+  },
+  {
+    "activity_id": "5c6989106a1c1906",
+    "title": "About",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Show all results About Back About Digital for Life Movement & Fund Our Programmes and Projects Our Digital Ambassadors Our Partners News Releases Contact Us Learn Back Learn Events Resources Contribute Back Contribute Start a Project Partner with Us Volunteer Donate Be Inspired O",
+    "url": "https://www.digitalforlife.gov.sg/",
+    "source": "digitalforlife",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:18.217696+00:00"
+  },
+  {
+    "activity_id": "5196e132e857df39",
+    "title": "About HealthHub",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "About HealthHub Join Our Community Privacy Policy Terms of Use Contact Us © 2026 Ministry of Health Singapore. All rights reserved.",
+    "url": "https://www.healthhub.sg/about-healthhub",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.308707+00:00"
   },
   {
     "activity_id": "35f86a16dc131985",
@@ -62,7 +205,7 @@
     "source": "agewellsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.428470+00:00"
+    "last_seen_at": "2026-03-18T03:25:25.971927+00:00"
   },
   {
     "activity_id": "80bc8f07adb53796",
@@ -75,7 +218,7 @@
     "source": "lionsbefrienders",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:18.293417+00:00"
+    "last_seen_at": "2026-03-18T03:25:30.030821+00:00"
   },
   {
     "activity_id": "f414c1e793ec3544",
@@ -88,7 +231,150 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822475+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.036060+00:00"
+  },
+  {
+    "activity_id": "57295e319fafc571",
+    "title": "Admiralty Zone 5 RN - Dance-Fit Club (Jan - Dec 2026)",
+    "start_datetime_raw": "07 Jan 2026 - 30 Dec 2026 7:30 PM - 9:30 PM",
+    "start_datetime_iso": "",
+    "location": "Admiralty Zone 5 RN",
+    "description": "Admiralty Zone 5 RN - Dance-Fit Club (Jan - Dec 2026)",
+    "url": "https://www.onepa.gov.sg/events/admiralty-zone-5-rn-dance-fit-club-jan-dec-2026-44567914",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.161580+00:00"
+  },
+  {
+    "activity_id": "145b659ed98a17bf",
+    "title": "BBE SCEC QIGONG - APR 2026",
+    "start_datetime_raw": "03 Apr 2026 - 29 Apr 2026 9:00 AM - 10:30 AM",
+    "start_datetime_iso": "",
+    "location": "Bukit Batok East CC",
+    "description": "BBE SCEC QIGONG - APR 2026",
+    "url": "https://www.onepa.gov.sg/events/bbe-scec-qigong-apr-2026-48792883",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.310542+00:00"
+  },
+  {
+    "activity_id": "17fea03069a69ed9",
+    "title": "BBE SCEC QIGONG - JUN 2026",
+    "start_datetime_raw": "05 Jun 2026 - 26 Jun 2026 9:00 AM - 10:30 AM",
+    "start_datetime_iso": "",
+    "location": "Bukit Batok East CC",
+    "description": "BBE SCEC QIGONG - JUN 2026",
+    "url": "https://www.onepa.gov.sg/events/bbe-scec-qigong-jun-2026-46535071",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.229842+00:00"
+  },
+  {
+    "activity_id": "2254c124e96efa17",
+    "title": "BBE SCEC QIGONG - MAY 2026",
+    "start_datetime_raw": "06 May 2026 - 29 May 2026 8:00 AM - 10:30 AM",
+    "start_datetime_iso": "",
+    "location": "Bukit Batok East CC",
+    "description": "BBE SCEC QIGONG - MAY 2026",
+    "url": "https://www.onepa.gov.sg/events/bbe-scec-qigong-may-2026-75212716",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.310542+00:00"
+  },
+  {
+    "activity_id": "30a55bdb9a1e1fc5",
+    "title": "BBE Zone 7- 23 April 2026 Have You Made Your CPF Nomination?",
+    "start_datetime_raw": "23 Apr 2026 6:00 PM - 8:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bukit Batok Zone 7 RN",
+    "description": "BBE Zone 7- 23 April 2026 Have You Made Your CPF Nomination?",
+    "url": "https://www.onepa.gov.sg/events/bbe-zone-7-23-april-2026-have-you-made-your-cpf-nomination-97432622",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.241030+00:00"
+  },
+  {
+    "activity_id": "521d7b9ca8e792d5",
+    "title": "BBZ3RN Karaoke Hall Singing (Apr 2026)",
+    "start_datetime_raw": "01 Apr 2026 - 30 Apr 2026 9:00 AM - 5:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bukit Batok Zone 3 RN",
+    "description": "BBZ3RN Karaoke Hall Singing (Apr 2026)",
+    "url": "https://www.onepa.gov.sg/events/bbz3rn-karaoke-hall-singing-apr-2026-96218633",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.243033+00:00"
+  },
+  {
+    "activity_id": "1ae6c7e8f9bab1ee",
+    "title": "BBZ3RN Karaoke Hall Singing (Mar2026)",
+    "start_datetime_raw": "01 Mar 2026 - 31 Mar 2026 9:00 AM - 5:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bukit Batok Zone 3 RN",
+    "description": "BBZ3RN Karaoke Hall Singing (Mar2026)",
+    "url": "https://www.onepa.gov.sg/events/bbz3rn-karaoke-hall-singing-mar2026-27859042",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.215843+00:00"
+  },
+  {
+    "activity_id": "642598c8d7bca222",
+    "title": "BEZ5 : KARAOKE BOOKING FOR MARCH 2026",
+    "start_datetime_raw": "16 Mar 2026 - 31 Mar 2026 9:00 AM - 10:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bishan East Zone 5 RN",
+    "description": "BEZ5 : KARAOKE BOOKING FOR MARCH 2026",
+    "url": "https://www.onepa.gov.sg/events/bez5-karaoke-booking-for-march-2026-48299499",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.301730+00:00"
+  },
+  {
+    "activity_id": "1535a442e3ae15e2",
+    "title": "BEZ5 Line Dance April 26",
+    "start_datetime_raw": "11 Apr 2026 2:00 PM - 6:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bishan East Zone 5 RN",
+    "description": "BEZ5 Line Dance April 26",
+    "url": "https://www.onepa.gov.sg/events/bez5-line-dance-april-26-20230374",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.290471+00:00"
+  },
+  {
+    "activity_id": "131be10f8c3fb851",
+    "title": "BG AAC Brisk Morning Walk (Mar'26)",
+    "start_datetime_raw": "29 Mar 2026 6:00 AM - 10:00 AM",
+    "start_datetime_iso": "",
+    "location": "Hillview CC",
+    "description": "BG AAC Brisk Morning Walk (Mar'26)",
+    "url": "https://www.onepa.gov.sg/events/bg-aac-brisk-morning-walk-mar-26-56182003",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.287481+00:00"
+  },
+  {
+    "activity_id": "dd3e582ad4f5a82f",
+    "title": "BLAAC Senior Day",
+    "start_datetime_raw": "18 Mar 2026 1:00 PM - 3:00 PM",
+    "start_datetime_iso": "",
+    "location": "Boon Lay CC",
+    "description": "BLAAC Senior Day",
+    "url": "https://www.onepa.gov.sg/events/blaac-senior-day-29156249",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.261118+00:00"
   },
   {
     "activity_id": "5991c207745a3c92",
@@ -101,7 +387,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822746+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "78777cb8feb53f02",
@@ -114,7 +400,228 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823350+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
+  },
+  {
+    "activity_id": "2c8863cc408a581d",
+    "title": "Bishan Esports Hub - Esports and Exergaming Programme",
+    "start_datetime_raw": "26 Feb 2026 - 31 Dec 2026 12:00 AM - 5:30 PM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Esports Hub - Esports and Exergaming Programme",
+    "url": "https://www.onepa.gov.sg/events/bishan-esports-hub-esports-and-exergaming-programme-83598813",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.254040+00:00"
+  },
+  {
+    "activity_id": "e8cabb03ade73441",
+    "title": "Bishan Wellness Hub - 2026 Baking Demo (Mar)",
+    "start_datetime_raw": "28 Mar 2026 10:00 AM - 11:30 AM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Wellness Hub - 2026 Baking Demo (Mar)",
+    "url": "https://www.onepa.gov.sg/events/bishan-wellness-hub-2026-baking-demo-mar-61801027",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.232842+00:00"
+  },
+  {
+    "activity_id": "511bdc5e1629a4d2",
+    "title": "Bishan Wellness Hub - 2026 Chinese Classics Singalong Session (中文经典老歌弹唱会)",
+    "start_datetime_raw": "22 Mar 2026 - 22 Nov 2026 2:00 PM - 4:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Wellness Hub - 2026 Chinese Classics Singalong Session (中文经典老歌弹唱会)",
+    "url": "https://www.onepa.gov.sg/events/bishan-wellness-hub-2026-chinese-classics-singalong-session-30632849",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.244030+00:00"
+  },
+  {
+    "activity_id": "bfad423167444421",
+    "title": "Bishan Wellness Hub - 2026 Chinese Dance",
+    "start_datetime_raw": "06 Jan 2026 - 31 Mar 2026 1:00 PM - 2:30 PM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Wellness Hub - 2026 Chinese Dance",
+    "url": "https://www.onepa.gov.sg/events/bishan-wellness-hub-2026-chinese-dance-61302523",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.197792+00:00"
+  },
+  {
+    "activity_id": "bc8f068729686441",
+    "title": "Bishan Wellness Hub - 2026 HPB Kpopx Lite",
+    "start_datetime_raw": "02 Jan 2026 - 18 Dec 2026 12:30 PM - 1:30 PM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Wellness Hub - 2026 HPB Kpopx Lite",
+    "url": "https://www.onepa.gov.sg/events/bishan-wellness-hub-2026-hpb-kpopx-lite-59306098",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.197792+00:00"
+  },
+  {
+    "activity_id": "7ea37fe7658f03a2",
+    "title": "Bishan Wellness Hub - 2026 Lawn Bowl Sessions",
+    "start_datetime_raw": "02 Jan 2026 - 18 Dec 2026 10:00 AM - 12:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Wellness Hub - 2026 Lawn Bowl Sessions",
+    "url": "https://www.onepa.gov.sg/events/bishan-wellness-hub-2026-lawn-bowl-sessions-81258348",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.165591+00:00"
+  },
+  {
+    "activity_id": "7bd9d759cd45b9bc",
+    "title": "Bishan Wellness Hub - 2026 Line Dance Intermediate",
+    "start_datetime_raw": "19 Jan 2026 - 30 Mar 2026 9:15 AM - 11:00 AM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Wellness Hub - 2026 Line Dance Intermediate",
+    "url": "https://www.onepa.gov.sg/events/bishan-wellness-hub-2026-line-dance-intermediate-24359265",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.196793+00:00"
+  },
+  {
+    "activity_id": "7f7ecb2f4ebcb094",
+    "title": "Bishan Wellness Hub - 2026 Seniors Pool Club (Mondays)",
+    "start_datetime_raw": "05 Jan 2026 - 28 Dec 2026 10:00 AM - 12:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Wellness Hub - 2026 Seniors Pool Club (Mondays)",
+    "url": "https://www.onepa.gov.sg/events/bishan-wellness-hub-2026-seniors-pool-club-mondays-23883406",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.164586+00:00"
+  },
+  {
+    "activity_id": "02566eaf89b4839c",
+    "title": "Bishan Wellness Hub - 2026 Wellness Dance",
+    "start_datetime_raw": "04 Jan 2026 - 27 Dec 2026 10:00 AM - 11:00 AM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Wellness Hub - 2026 Wellness Dance",
+    "url": "https://www.onepa.gov.sg/events/bishan-wellness-hub-2026-wellness-dance-45247310",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.184586+00:00"
+  },
+  {
+    "activity_id": "9e747d9516704521",
+    "title": "Bishan Wellness Hub - Dance Fitness Workout with Crystal (Mar - May 26)",
+    "start_datetime_raw": "18 Mar 2026 - 06 May 2026 10:00 AM - 11:00 AM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Wellness Hub - Dance Fitness Workout with Crystal (Mar - May 26)",
+    "url": "https://www.onepa.gov.sg/events/bishan-wellness-hub-dance-fitness-workout-with-crystal-mar-may-26-12099647",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.233844+00:00"
+  },
+  {
+    "activity_id": "35e262ba87ff71ec",
+    "title": "Bishan Wellness Hub - Echoes of Classic English Songs",
+    "start_datetime_raw": "12 Apr 2026 2:00 PM - 3:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Wellness Hub - Echoes of Classic English Songs",
+    "url": "https://www.onepa.gov.sg/events/bishan-wellness-hub-echoes-of-classic-english-songs-86950913",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.245029+00:00"
+  },
+  {
+    "activity_id": "e1fb649864f2aa74",
+    "title": "Bishan Wellness Hub - Stay Active with Weena (Jan - Mar 26)",
+    "start_datetime_raw": "09 Jan 2026 - 27 Mar 2026 2:00 PM - 3:30 PM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Wellness Hub - Stay Active with Weena (Jan - Mar 26)",
+    "url": "https://www.onepa.gov.sg/events/bishan-wellness-hub-stay-active-with-weena-jan-mar-26-36323925",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.180572+00:00"
+  },
+  {
+    "activity_id": "c499559fc7b0de3b",
+    "title": "Bishan Wellness Hub x CHS - Bridging Generations with Chinese Crafts and Stories Sessions",
+    "start_datetime_raw": "05 Apr 2026 - 18 Oct 2026 2:00 PM - 5:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Wellness Hub x CHS - Bridging Generations with Chinese Crafts and Stories Sessions",
+    "url": "https://www.onepa.gov.sg/events/bishan-wellness-hub-x-chs-bridging-generations-with-chinese-crafts-and-stories-sessions-80616860",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.216843+00:00"
+  },
+  {
+    "activity_id": "56403e7d2ef40bcc",
+    "title": "Bishan Wellness Hub x KCPSS x SGAssist - Intergenerational Event",
+    "start_datetime_raw": "05 Feb 2026 - 09 Apr 2026 3:30 PM - 5:30 PM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Wellness Hub x KCPSS x SGAssist - Intergenerational Event",
+    "url": "https://www.onepa.gov.sg/events/bishan-wellness-hub-x-kcpss-x-sgassist-intergenerational-event-21357879",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.193771+00:00"
+  },
+  {
+    "activity_id": "36e61fe76bcdba71",
+    "title": "Bishan Wellness Hub x NHG - Promoting Good Practices in Chronic Diseases Management (Diabetes)",
+    "start_datetime_raw": "13 May 2026 2:30 PM - 4:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Wellness Hub x NHG - Promoting Good Practices in Chronic Diseases Management (Diabetes)",
+    "url": "https://www.onepa.gov.sg/events/bishan-wellness-hub-x-nhg-promoting-good-practices-in-chronic-diseases-management-diabetes-86346625",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.238012+00:00"
+  },
+  {
+    "activity_id": "2675ca4221397962",
+    "title": "Bishan Wellness Hub x SG Assist - Age-Friendly Ambassador Workshop",
+    "start_datetime_raw": "27 Apr 2026 - 18 May 2026 1:00 PM - 5:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bishan CC",
+    "description": "Bishan Wellness Hub x SG Assist - Age-Friendly Ambassador Workshop",
+    "url": "https://www.onepa.gov.sg/events/bishan-wellness-hub-x-sg-assist-age-friendly-ambassador-workshop-37991462",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.235993+00:00"
+  },
+  {
+    "activity_id": "65dcfbe269357df6",
+    "title": "Braddell Heights SCEC Folk Dance Nite",
+    "start_datetime_raw": "25 Apr 2026 6:00 PM - 9:00 PM",
+    "start_datetime_iso": "",
+    "location": "Braddell Heights CC",
+    "description": "Braddell Heights SCEC Folk Dance Nite",
+    "url": "https://www.onepa.gov.sg/events/braddell-heights-scec-folk-dance-nite-83652702",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.306743+00:00"
   },
   {
     "activity_id": "be12c0c62ea53cb9",
@@ -127,7 +634,72 @@
     "source": "eventbrite",
     "source_confidence": "medium",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.028505+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.530709+00:00"
+  },
+  {
+    "activity_id": "6916efd240a7451e",
+    "title": "Canberra CSN - Pickleball Interests Group - March to August 2026",
+    "start_datetime_raw": "03 Mar 2026 - 25 Aug 2026 1:00 PM - 4:00 PM",
+    "start_datetime_iso": "",
+    "location": "Canberra CC",
+    "description": "Canberra CSN - Pickleball Interests Group - March to August 2026",
+    "url": "https://www.onepa.gov.sg/events/canberra-csn-pickleball-interests-group-march-to-august-2026-15805801",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.198795+00:00"
+  },
+  {
+    "activity_id": "ea18fcd9b4beefa8",
+    "title": "Canvas Painting Workshop BPRN",
+    "start_datetime_raw": "25 Apr 2026 10:00 AM - 12:00 PM",
+    "start_datetime_iso": "",
+    "location": "Jalan Kayu Zone 8 RN",
+    "description": "Canvas Painting Workshop BPRN",
+    "url": "https://www.onepa.gov.sg/events/canvas-painting-workshop-bprn-30536184",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.289469+00:00"
+  },
+  {
+    "activity_id": "7247dd73262fc39c",
+    "title": "Changi Simei Social Dance Night (May 2026)",
+    "start_datetime_raw": "16 May 2026 5:30 PM - 9:00 PM",
+    "start_datetime_iso": "",
+    "location": "Changi Simei CC",
+    "description": "Changi Simei Social Dance Night (May 2026)",
+    "url": "https://www.onepa.gov.sg/events/changi-simei-social-dance-night-may-2026-23869992",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.294205+00:00"
+  },
+  {
+    "activity_id": "6685e7b26e49112d",
+    "title": "Changi Simei Zone 4 - Karaoke (March 2026)",
+    "start_datetime_raw": "14 Mar 2026 - 28 Mar 2026 7:00 PM - 10:00 PM",
+    "start_datetime_iso": "",
+    "location": "Changi Simei Zone 4 RN",
+    "description": "Changi Simei Zone 4 - Karaoke (March 2026)",
+    "url": "https://www.onepa.gov.sg/events/changi-simei-zone-4-karaoke-march-2026-91627238",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.291470+00:00"
+  },
+  {
+    "activity_id": "88b48ff1229b09cc",
+    "title": "Child & Teen's Health",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "HealthHub healthy ageing programme",
+    "url": "https://www.healthhub.sg/well-being-and-lifestyle/child-and-teens-health",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.305179+00:00"
   },
   {
     "activity_id": "b4d07cef4602562d",
@@ -140,7 +712,20 @@
     "source": "agewellsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.428513+00:00"
+    "last_seen_at": "2026-03-18T03:25:25.971927+00:00"
+  },
+  {
+    "activity_id": "3b817de1e1bccfba",
+    "title": "Costs & Financing",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Support & Tools Costs & Financing Statistics on Healthcare Tools & Resources Support & Care Programmes Screening Trending Trending Blood Glucose Meter to Monitor Blood Sugar Levels Read more MediShield Life Read more Vaccination Clinic Read more ​Women Health Services Read more",
+    "url": "https://www.healthhub.sg/support-and-tools/costs-and-financing",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.305179+00:00"
   },
   {
     "activity_id": "4bc418ae9cf1ff3c",
@@ -153,7 +738,98 @@
     "source": "eventbrite",
     "source_confidence": "medium",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.024728+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.498960+00:00"
+  },
+  {
+    "activity_id": "180ad6d63892456a",
+    "title": "Digital Club @ Ayer Rajah - How to Use Common Gen AI Tools (English - 18 April 2026)",
+    "start_datetime_raw": "18 Apr 2026 1:00 PM - 3:00 PM",
+    "start_datetime_iso": "",
+    "location": "Ayer Rajah CC",
+    "description": "Digital Club @ Ayer Rajah - How to Use Common Gen AI Tools (English - 18 April 2026)",
+    "url": "https://www.onepa.gov.sg/events/digital-club-ayer-rajah-how-to-use-common-gen-ai-tools-english-18-april-2026-66736142",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.278465+00:00"
+  },
+  {
+    "activity_id": "83523f3ab20fd800",
+    "title": "Digital Club @ Ayer Rajah - 如何使用生成式人工智能（Gen AI） (Chinese - 18.04.2026)",
+    "start_datetime_raw": "18 Apr 2026 10:00 AM - 12:00 PM",
+    "start_datetime_iso": "",
+    "location": "Ayer Rajah CC",
+    "description": "Digital Club @ Ayer Rajah - 如何使用生成式人工智能（Gen AI） (Chinese - 18.04.2026)",
+    "url": "https://www.onepa.gov.sg/events/digital-club-ayer-rajah-gen-ai-chinese-18-04-2026-34919466",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.259110+00:00"
+  },
+  {
+    "activity_id": "7be8c107cf791e68",
+    "title": "Digital Clubs in Central",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "In support of the Digital for Life (DfL) movement, the SG Digital Office designs and creates whole-of-nation efforts to engage and equip individuals, businesses, and the community-at-large to adopt digital knowledge, skills and tools to participate meaningfully. This is brought i",
+    "url": "https://www.digitalforlife.gov.sg/learn/events/all-events/listing-of-digital-for-life---digital-clubs#accordion-01",
+    "source": "digitalforlife",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:18.218702+00:00"
+  },
+  {
+    "activity_id": "8d982a162066fbc9",
+    "title": "Digital Clubs in East",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Digital Clubs in East Compassvale Coris RN 266 Compassvale Bow #01-03 Singapore 540266 6753 9588 Sessions conducted in English Eunos Zone 9 RN 122 Bedok Reservoir Rd #01-1041 Singapore 470122 6448 6971 Sessions conducted in Mandarin Punggol Coast CC 1 Punggol Drive Level 5 Functi",
+    "url": "https://www.digitalforlife.gov.sg/learn/events/all-events/listing-of-digital-for-life---digital-clubs#accordion-02",
+    "source": "digitalforlife",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:18.218702+00:00"
+  },
+  {
+    "activity_id": "d05d931547cc7b5f",
+    "title": "Digital Clubs in North",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Digital Clubs in North Cheng San Palm RN 546 Ang Mo Kio Ave 10 #01-2266 Singapore 560546 6458 8222 Sessions conducted in Mandarin Ci Yuan Community Club (MAEC) 51 Hougang Ave 9 Singapore 538776 6386 3717 Sessions conducted in Malay Fernvale Community Club 21 Sengkang West Ave #01",
+    "url": "https://www.digitalforlife.gov.sg/learn/events/all-events/listing-of-digital-for-life---digital-clubs#accordion-03",
+    "source": "digitalforlife",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:18.218702+00:00"
+  },
+  {
+    "activity_id": "f74ac9a3dee5bc44",
+    "title": "Digital Clubs in West",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Digital Clubs in West Ayer Rajah Community Club 150 Pandan Gardens Singapore 609335 6560 9983 Sessions conducted in English & Mandarin Boon Lay Community Club 10 Boon Lay Place Singapore 649882 6261 9947 Sessions conducted in Mandarin Brickland Arcade RN 251 Choa Chu Kang Ave 2 #",
+    "url": "https://www.digitalforlife.gov.sg/learn/events/all-events/listing-of-digital-for-life---digital-clubs#accordion-04",
+    "source": "digitalforlife",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:18.218702+00:00"
+  },
+  {
+    "activity_id": "643cf0cef15d0aff",
+    "title": "Digital For Life_6 April 2026",
+    "start_datetime_raw": "06 Apr 2026 10:00 AM - 1:00 PM",
+    "start_datetime_iso": "",
+    "location": "West Coast CC",
+    "description": "Digital For Life_6 April 2026",
+    "url": "https://www.onepa.gov.sg/events/digital-for-life-6-april-2026-18645812",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.255010+00:00"
   },
   {
     "activity_id": "200154502c742ff0",
@@ -166,7 +842,72 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823489+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
+  },
+  {
+    "activity_id": "4a212e333fbaabc0",
+    "title": "Eating Healthy",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Eating Healthy Nutrition for Older Adults Library of Recipes",
+    "url": "https://www.healthhub.sg/programmes/healthy-ageing/eating-healthy/nutrition-for-older-adults",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.306152+00:00"
+  },
+  {
+    "activity_id": "d8e8073786a79ad0",
+    "title": "Events",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Digital for Life digital club / event listing",
+    "url": "https://www.digitalforlife.gov.sg/learn/events",
+    "source": "digitalforlife",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:18.218702+00:00"
+  },
+  {
+    "activity_id": "ff9667e9c7973d92",
+    "title": "Evidence-Based Sound Therapy",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "International Plaza Singapore (#10-23)",
+    "description": "Eventbrite listing for seniors-related activities",
+    "url": "https://www.eventbrite.sg/e/evidence-based-sound-therapy-tickets-1429832540619?aff=ebdssbdestsearch",
+    "source": "eventbrite",
+    "source_confidence": "medium",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:25:23.498960+00:00"
+  },
+  {
+    "activity_id": "83e05e863bfe4737",
+    "title": "Exercise & Fitness",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "HealthHub healthy ageing programme",
+    "url": "https://www.healthhub.sg/well-being-and-lifestyle/exercise-and-fitness",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.305179+00:00"
+  },
+  {
+    "activity_id": "cd3e8c594091c1d2",
+    "title": "Expert Voices",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Highlights & Insights Expert Voices Health Safety Advisory Latest Latest Q&A: Wrist and Chronic Back Pain Read more Q&A: Skin Bumps Read more Trending Trending Q&A: Spicy Food and Big Appetite Read more Q&A: Expired Health Supplements and Eggs in Diet Read more Health Conditions",
+    "url": "https://www.healthhub.sg/highlights-and-insights/expert-voices",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.305179+00:00"
   },
   {
     "activity_id": "b14a861bf0dae987",
@@ -179,7 +920,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822643+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "66fcb9cc547882b0",
@@ -192,7 +933,7 @@
     "source": "eventbrite",
     "source_confidence": "medium",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.026492+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.498960+00:00"
   },
   {
     "activity_id": "c8f0cf49a6449aa9",
@@ -205,7 +946,7 @@
     "source": "eventbrite",
     "source_confidence": "medium",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.026526+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.500056+00:00"
   },
   {
     "activity_id": "5646547b8cd34947",
@@ -218,7 +959,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822435+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.036060+00:00"
   },
   {
     "activity_id": "cf5d4c2403a9ab04",
@@ -231,7 +972,98 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822292+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.036060+00:00"
+  },
+  {
+    "activity_id": "3359c6ca097d0acc",
+    "title": "Food, Diet & Nutrition",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "HealthHub healthy ageing programme",
+    "url": "https://www.healthhub.sg/well-being-and-lifestyle/food-diet-and-nutrition",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.305179+00:00"
+  },
+  {
+    "activity_id": "aad5b97382184c5d",
+    "title": "Free Haircut for Seniors (April 2026)",
+    "start_datetime_raw": "02 Apr 2026 - 16 Apr 2026 9:00 AM - 11:30 AM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh Central CC",
+    "description": "Free Haircut for Seniors (April 2026)",
+    "url": "https://www.onepa.gov.sg/events/free-haircut-for-seniors-april-2026-85176863",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.298817+00:00"
+  },
+  {
+    "activity_id": "713be54eed62788d",
+    "title": "Free Haircut for Seniors (March 2026)",
+    "start_datetime_raw": "05 Mar 2026 - 19 Mar 2026 9:30 AM - 11:30 AM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh Central CC",
+    "description": "Free Haircut for Seniors (March 2026)",
+    "url": "https://www.onepa.gov.sg/events/free-haircut-for-seniors-march-2026-50937150",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.231843+00:00"
+  },
+  {
+    "activity_id": "a2d46f28a6c63e65",
+    "title": "Fulton-Bishan Park & Bishan East-Sin Ming CSN Pickleball Beginners' Clinic",
+    "start_datetime_raw": "28 Mar 2026 8:00 PM - 10:00 PM",
+    "start_datetime_iso": "",
+    "location": "Fulton-Bishan Park RN",
+    "description": "Fulton-Bishan Park & Bishan East-Sin Ming CSN Pickleball Beginners' Clinic",
+    "url": "https://www.onepa.gov.sg/events/fulton-bishan-park-bishan-east-sin-ming-csn-pickleball-beginners-clinic-90334687",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.247036+00:00"
+  },
+  {
+    "activity_id": "5715959b85163962",
+    "title": "Fun Walker_March 2026",
+    "start_datetime_raw": "08 Mar 2026 - 29 Mar 2026 6:00 AM - 2:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bukit Gombak Hillview Connections NC",
+    "description": "Fun Walker_March 2026",
+    "url": "https://www.onepa.gov.sg/events/fun-walker-march-2026-22915560",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.270013+00:00"
+  },
+  {
+    "activity_id": "f9c179fd73e3917f",
+    "title": "GLRC Ren Ci Rummikub - 18 March'26",
+    "start_datetime_raw": "18 Mar 2026 2:00 PM - 4:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bukit Gombak Guilin RC",
+    "description": "GLRC Ren Ci Rummikub - 18 March'26",
+    "url": "https://www.onepa.gov.sg/events/glrc-ren-ci-rummikub-18-march-26-35729356",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.279465+00:00"
+  },
+  {
+    "activity_id": "bc1fa9f1c079583c",
+    "title": "GLRC Ren Ci Rummikub - 19 March'26",
+    "start_datetime_raw": "19 Mar 2026 2:00 PM - 4:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bukit Gombak Guilin RC",
+    "description": "GLRC Ren Ci Rummikub - 19 March'26",
+    "url": "https://www.onepa.gov.sg/events/glrc-ren-ci-rummikub-19-march-26-58595680",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.280465+00:00"
   },
   {
     "activity_id": "07f044172ba13378",
@@ -244,7 +1076,7 @@
     "source": "eventbrite",
     "source_confidence": "medium",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.028477+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.530709+00:00"
   },
   {
     "activity_id": "4c59814496fcf450",
@@ -257,7 +1089,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823436+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "58e90f8859b2f049",
@@ -270,20 +1102,410 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823324+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
-    "activity_id": "5afdd89ba63aef89",
-    "title": "LeetCode Practice Session (Fortnightly) Every two weeks on Sat · Apr 4 · 2:00 PM SST by Junior Developers Singapore 4.6 1 attendee",
+    "activity_id": "b1975c21ff9a237d",
+    "title": "Golden Years Musical Lunch",
+    "start_datetime_raw": "28 Mar 2026 11:00 AM - 2:00 PM",
+    "start_datetime_iso": "",
+    "location": "Potong Pasir CC",
+    "description": "Golden Years Musical Lunch",
+    "url": "https://www.onepa.gov.sg/events/golden-years-musical-lunch-75853957",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.296813+00:00"
+  },
+  {
+    "activity_id": "1f7f13dcc5515574",
+    "title": "Happy Feet_March 2026",
+    "start_datetime_raw": "06 Mar 2026 - 27 Mar 2026 1:00 PM - 6:00 PM",
+    "start_datetime_iso": "",
+    "location": "Hume RN",
+    "description": "Happy Feet_March 2026",
+    "url": "https://www.onepa.gov.sg/events/happy-feet-march-2026-28251551",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.273012+00:00"
+  },
+  {
+    "activity_id": "8e89a71b51724f5e",
+    "title": "Happy Singing Hour - 11 April 2026",
+    "start_datetime_raw": "11 Apr 2026 2:30 PM - 3:45 PM",
+    "start_datetime_iso": "",
+    "location": "Radin Mas CC",
+    "description": "Happy Singing Hour - 11 April 2026",
+    "url": "https://www.onepa.gov.sg/events/happy-singing-hour-11-april-2026-88661786",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.166587+00:00"
+  },
+  {
+    "activity_id": "4d14df84a4c7ed01",
+    "title": "Health Programmes",
     "start_datetime_raw": "",
     "start_datetime_iso": "",
     "location": "Singapore",
-    "description": "Meetup seniors-related event listing",
-    "url": "https://www.meetup.com/junior-developers-singapore/events/313772465/?recId=ecfd9f7a-c52f-4ac7-bebc-ff8451045b7c&recSource=event-search&searchId=b003beda-399d-4b3f-850a-3bbe956b326d&eventOrigin=find_page%24all",
-    "source": "meetup",
+    "description": "Well-being & Lifestyle Health Programmes Active Ageing Caregiving Child & Teen's Health Exercise & Fitness Food, Diet & Nutrition Mental Wellness Personal Care Pregnancy & Infant Health Sexual Health Substance Addiction Travel Health Trending Trending Recommended Dietary Allowanc",
+    "url": "https://www.healthhub.sg/programmes",
+    "source": "healthhub",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:22.103595+00:00"
+    "last_seen_at": "2026-03-18T03:26:22.305179+00:00"
+  },
+  {
+    "activity_id": "b667513463abc90e",
+    "title": "Health Safety Advisory",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "HealthHub healthy ageing programme",
+    "url": "https://www.healthhub.sg/highlights-and-insights/health-safety-advisory",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.305179+00:00"
+  },
+  {
+    "activity_id": "97e571e7376a1482",
+    "title": "Healthcare Directory",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Healthcare Directory Help Centre",
+    "url": "https://eservices.healthhub.sg/public/directory",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.304153+00:00"
+  },
+  {
+    "activity_id": "7b8bd78c829e41c9",
+    "title": "Hillview Garden Fun Walker (11 Apr 2025)",
+    "start_datetime_raw": "11 Apr 2026 6:30 AM - 11:30 AM",
+    "start_datetime_iso": "",
+    "location": "Bukit Gombak Hillview Garden NC",
+    "description": "Hillview Garden Fun Walker (11 Apr 2025)",
+    "url": "https://www.onepa.gov.sg/events/hillview-garden-fun-walker-11-apr-2025-95702562",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.192781+00:00"
+  },
+  {
+    "activity_id": "37f7a2c20345f1bf",
+    "title": "Hillview Garden Fun Walker (18 Apr 2025)",
+    "start_datetime_raw": "18 Apr 2026 6:30 AM - 11:30 AM",
+    "start_datetime_iso": "",
+    "location": "Bukit Gombak Hillview Garden NC",
+    "description": "Hillview Garden Fun Walker (18 Apr 2025)",
+    "url": "https://www.onepa.gov.sg/events/hillview-garden-fun-walker-18-apr-2025-63606453",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.189756+00:00"
+  },
+  {
+    "activity_id": "32df96da4a45b587",
+    "title": "Hillview Garden Fun Walker (21 March 2026)",
+    "start_datetime_raw": "21 Mar 2026 6:30 AM - 11:30 AM",
+    "start_datetime_iso": "",
+    "location": "Bukit Gombak Hillview Garden NC",
+    "description": "Hillview Garden Fun Walker (21 March 2026)",
+    "url": "https://www.onepa.gov.sg/events/hillview-garden-fun-walker-21-march-2026-94468361",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.191797+00:00"
+  },
+  {
+    "activity_id": "2b71cb5d35521d32",
+    "title": "Hillview Garden Fun Walker (22 March 2026)",
+    "start_datetime_raw": "22 Mar 2026 6:30 AM - 8:30 AM",
+    "start_datetime_iso": "",
+    "location": "Bukit Gombak Hillview Garden NC",
+    "description": "Hillview Garden Fun Walker (22 March 2026)",
+    "url": "https://www.onepa.gov.sg/events/hillview-garden-fun-walker-22-march-2026-97055470",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.260110+00:00"
+  },
+  {
+    "activity_id": "5e6c4fafb2c7ed87",
+    "title": "Hillview Garden Fun Walker (25 Apr 2026)",
+    "start_datetime_raw": "25 Apr 2026 6:30 AM - 11:30 AM",
+    "start_datetime_iso": "",
+    "location": "Bukit Gombak Hillview Garden NC",
+    "description": "Hillview Garden Fun Walker (25 Apr 2026)",
+    "url": "https://www.onepa.gov.sg/events/hillview-garden-fun-walker-25-apr-2026-73372190",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.190772+00:00"
+  },
+  {
+    "activity_id": "4504d80fceef9a14",
+    "title": "Hillview Garden Fun Walker (28 March 2026)",
+    "start_datetime_raw": "28 Mar 2026 6:30 AM - 11:30 AM",
+    "start_datetime_iso": "",
+    "location": "Bukit Gombak Hillview Garden NC",
+    "description": "Hillview Garden Fun Walker (28 March 2026)",
+    "url": "https://www.onepa.gov.sg/events/hillview-garden-fun-walker-28-march-2026-91185632",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.191797+00:00"
+  },
+  {
+    "activity_id": "447f7fcef1c1d9d7",
+    "title": "Hillview Garden Fun Walker (29 March 2026)",
+    "start_datetime_raw": "29 Mar 2026 6:30 AM - 9:00 AM",
+    "start_datetime_iso": "",
+    "location": "Bukit Gombak Hillview Garden NC",
+    "description": "Hillview Garden Fun Walker (29 March 2026)",
+    "url": "https://www.onepa.gov.sg/events/hillview-garden-fun-walker-29-march-2026-70860861",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.259110+00:00"
+  },
+  {
+    "activity_id": "11aeda5090a62db0",
+    "title": "Hillview Garden Fun Walker (4 Apr 2026)",
+    "start_datetime_raw": "04 Apr 2026 6:30 AM - 11:30 AM",
+    "start_datetime_iso": "",
+    "location": "Bukit Gombak Hillview Garden NC",
+    "description": "Hillview Garden Fun Walker (4 Apr 2026)",
+    "url": "https://www.onepa.gov.sg/events/hillview-garden-fun-walker-4-apr-2026-13480787",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.187699+00:00"
+  },
+  {
+    "activity_id": "978f0fe9c3263410",
+    "title": "Hillview Garden Line Dance (18 March 2026)",
+    "start_datetime_raw": "18 Mar 2026 6:00 PM - 7:30 PM",
+    "start_datetime_iso": "",
+    "location": "Bukit Gombak Hillview Garden NC",
+    "description": "Hillview Garden Line Dance (18 March 2026)",
+    "url": "https://www.onepa.gov.sg/events/hillview-garden-line-dance-18-march-2026-52482755",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.271013+00:00"
+  },
+  {
+    "activity_id": "c75da1621b3ee5ba",
+    "title": "Hillview Garden Line Dance (25 March 2026)",
+    "start_datetime_raw": "25 Mar 2026 6:00 PM - 7:30 PM",
+    "start_datetime_iso": "",
+    "location": "Bukit Gombak Hillview Garden NC",
+    "description": "Hillview Garden Line Dance (25 March 2026)",
+    "url": "https://www.onepa.gov.sg/events/hillview-garden-line-dance-25-march-2026-59267105",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.272012+00:00"
+  },
+  {
+    "activity_id": "c4df06577615fae6",
+    "title": "Hillview Garden Senior Yoga (19Mar2026)",
+    "start_datetime_raw": "19 Mar 2026 7:30 AM - 11:30 AM",
+    "start_datetime_iso": "",
+    "location": "Bukit Gombak Hillview Garden NC",
+    "description": "Hillview Garden Senior Yoga (19Mar2026)",
+    "url": "https://www.onepa.gov.sg/events/hillview-garden-senior-yoga-19mar2026-53276153",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.194793+00:00"
+  },
+  {
+    "activity_id": "4fcee7d655777859",
+    "title": "Hillview Garden Senior Yoga (26Mar2026)",
+    "start_datetime_raw": "26 Mar 2026 7:30 AM - 11:30 AM",
+    "start_datetime_iso": "",
+    "location": "Bukit Gombak Hillview Garden NC",
+    "description": "Hillview Garden Senior Yoga (26Mar2026)",
+    "url": "https://www.onepa.gov.sg/events/hillview-garden-senior-yoga-26mar2026-55641358",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.195795+00:00"
+  },
+  {
+    "activity_id": "a01387bc2b923d7c",
+    "title": "Jurong Spring Zone C Karaoke Session FY26/27",
+    "start_datetime_raw": "01 Apr 2026 - 31 Mar 2027 9:00 AM - 5:00 PM",
+    "start_datetime_iso": "",
+    "location": "Jurong Spring Zone C RN",
+    "description": "Jurong Spring Zone C Karaoke Session FY26/27",
+    "url": "https://www.onepa.gov.sg/events/jurong-spring-zone-c-karaoke-session-fy26-27-93370619",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.183585+00:00"
+  },
+  {
+    "activity_id": "12d3356ff3ee16dd",
+    "title": "Keeping Active",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Keeping Active 7 Easy Exercises Sit-Down Exercises",
+    "url": "https://www.healthhub.sg/programmes/healthy-ageing/keeping-active/7-easy-exercises",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.306152+00:00"
+  },
+  {
+    "activity_id": "ac492a24d158f203",
+    "title": "Kelantan Karaoke Session (1 April 2026)",
+    "start_datetime_raw": "01 Apr 2026 - 02 Apr 2026 5:00 PM - 12:00 AM",
+    "start_datetime_iso": "",
+    "location": "Kelantan RN",
+    "description": "Kelantan Karaoke Session (1 April 2026)",
+    "url": "https://www.onepa.gov.sg/events/kelantan-karaoke-session-1-april-2026-86227144",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.228843+00:00"
+  },
+  {
+    "activity_id": "3cc4b41105d239db",
+    "title": "Kelantan Karaoke Session (15 April 2026)",
+    "start_datetime_raw": "15 Apr 2026 - 16 Apr 2026 5:00 PM - 12:00 AM",
+    "start_datetime_iso": "",
+    "location": "Kelantan RN",
+    "description": "Kelantan Karaoke Session (15 April 2026)",
+    "url": "https://www.onepa.gov.sg/events/kelantan-karaoke-session-15-april-2026-16059909",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.223841+00:00"
+  },
+  {
+    "activity_id": "a3d6369de114596a",
+    "title": "Kelantan Karaoke Session (18 March 2026)",
+    "start_datetime_raw": "18 Mar 2026 - 19 Mar 2026 5:00 PM - 12:00 AM",
+    "start_datetime_iso": "",
+    "location": "Kelantan RN",
+    "description": "Kelantan Karaoke Session (18 March 2026)",
+    "url": "https://www.onepa.gov.sg/events/kelantan-karaoke-session-18-march-2026-71863118",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.227842+00:00"
+  },
+  {
+    "activity_id": "104a1a866550afb5",
+    "title": "Kelantan Karaoke Session (22 April 2026)",
+    "start_datetime_raw": "22 Apr 2026 - 23 Apr 2026 5:00 PM - 12:00 AM",
+    "start_datetime_iso": "",
+    "location": "Kelantan RN",
+    "description": "Kelantan Karaoke Session (22 April 2026)",
+    "url": "https://www.onepa.gov.sg/events/kelantan-karaoke-session-22-april-2026-54484996",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.225846+00:00"
+  },
+  {
+    "activity_id": "c86a14a565febded",
+    "title": "Kelantan Karaoke Session (25 March 2026)",
+    "start_datetime_raw": "25 Mar 2026 - 26 Mar 2026 5:00 PM - 12:00 AM",
+    "start_datetime_iso": "",
+    "location": "Kelantan RN",
+    "description": "Kelantan Karaoke Session (25 March 2026)",
+    "url": "https://www.onepa.gov.sg/events/kelantan-karaoke-session-25-march-2026-16163072",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.224820+00:00"
+  },
+  {
+    "activity_id": "fdbd439fd45f30e9",
+    "title": "Kelantan Karaoke Session (8 April 2026)",
+    "start_datetime_raw": "08 Apr 2026 - 09 Apr 2026 5:00 PM - 12:00 AM",
+    "start_datetime_iso": "",
+    "location": "Kelantan RN",
+    "description": "Kelantan Karaoke Session (8 April 2026)",
+    "url": "https://www.onepa.gov.sg/events/kelantan-karaoke-session-8-april-2026-37740177",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.225846+00:00"
+  },
+  {
+    "activity_id": "75664cff7942e857",
+    "title": "Kembangan AAC Brisk Walk - Rail Corridor",
+    "start_datetime_raw": "28 Mar 2026 7:30 AM - 11:00 AM",
+    "start_datetime_iso": "",
+    "location": "Kampong Kembangan CC",
+    "description": "Kembangan AAC Brisk Walk - Rail Corridor",
+    "url": "https://www.onepa.gov.sg/events/kembangan-aac-brisk-walk-rail-corridor-58099743",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.295716+00:00"
+  },
+  {
+    "activity_id": "930ee9ee2f0bae9f",
+    "title": "Keyboard Singing Interest Group (Jan 2026 - Apr 2026)",
+    "start_datetime_raw": "01 Jan 2026 - 30 Apr 2026 7:30 PM - 9:30 PM",
+    "start_datetime_iso": "",
+    "location": "Seletar-Serangoon Zone 5 RN",
+    "description": "Keyboard Singing Interest Group (Jan 2026 - Apr 2026)",
+    "url": "https://www.onepa.gov.sg/events/keyboard-singing-interest-group-jan-2026-apr-2026-69102399",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.210876+00:00"
+  },
+  {
+    "activity_id": "9a8e788e7eed7636",
+    "title": "Learn",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Learn Back Learn Events Resources",
+    "url": "https://www.digitalforlife.gov.sg/learn",
+    "source": "digitalforlife",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:18.218702+00:00"
+  },
+  {
+    "activity_id": "f590e729f086cc41",
+    "title": "Learn More",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Health Programmes Live Well, Age Well Want to keep doing what you love? Join FREE 1 programmes for adults aged 50 and over that make it easier to stay active, sharp, and connected. 1 Exceptions apply. Learn More",
+    "url": "https://www.healthhub.sg/programmes/healthy-ageing/health-programmes/live-well-age-well",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.306152+00:00"
+  },
+  {
+    "activity_id": "a23ba2464d8d3f45",
+    "title": "Line Dance (16 May 2026)",
+    "start_datetime_raw": "16 May 2026 5:00 PM - 9:30 PM",
+    "start_datetime_iso": "",
+    "location": "Potong Pasir CC",
+    "description": "Line Dance (16 May 2026)",
+    "url": "https://www.onepa.gov.sg/events/line-dance-16-may-2026-26347482",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.304750+00:00"
   },
   {
     "activity_id": "ceb0974cb1ff9e4e",
@@ -296,20 +1518,150 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823380+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
-    "activity_id": "ea2a4b1b7765dd01",
+    "activity_id": "4b307a330a2e2ed2",
+    "title": "MM CSN Badminton Interest Group 2026",
+    "start_datetime_raw": "01 Jan 2026 - 31 Dec 2026 9:00 AM - 11:30 PM",
+    "start_datetime_iso": "",
+    "location": "Marymount CC",
+    "description": "MM CSN Badminton Interest Group 2026",
+    "url": "https://www.onepa.gov.sg/events/mm-csn-badminton-interest-group-2026-21406317",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.281466+00:00"
+  },
+  {
+    "activity_id": "9d9a2ad8c37394c7",
+    "title": "MM CSN Table Tennis Interest Group",
+    "start_datetime_raw": "01 Jan 2026 - 31 Dec 2026 12:00 AM - 11:30 PM",
+    "start_datetime_iso": "",
+    "location": "Marymount CC",
+    "description": "MM CSN Table Tennis Interest Group",
+    "url": "https://www.onepa.gov.sg/events/mm-csn-table-tennis-interest-group-24422072",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.258039+00:00"
+  },
+  {
+    "activity_id": "3560ddaa9876ffae",
+    "title": "MTW RC Karaoke IG - Mar 2026",
+    "start_datetime_raw": "01 Mar 2026 - 29 Mar 2026 9:00 AM - 5:00 PM",
+    "start_datetime_iso": "",
+    "location": "Marine Terrace Walk RN",
+    "description": "MTW RC Karaoke IG - Mar 2026",
+    "url": "https://www.onepa.gov.sg/events/mtw-rc-karaoke-ig-mar-2026-88384287",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.208866+00:00"
+  },
+  {
+    "activity_id": "0ed785c7e401dec2",
+    "title": "MTW RN Karaoke IG - April 2026",
+    "start_datetime_raw": "05 Apr 2026 - 26 Apr 2026 9:00 AM - 5:00 PM",
+    "start_datetime_iso": "",
+    "location": "Marine Terrace Walk RN",
+    "description": "MTW RN Karaoke IG - April 2026",
+    "url": "https://www.onepa.gov.sg/events/mtw-rn-karaoke-ig-april-2026-27730993",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.298817+00:00"
+  },
+  {
+    "activity_id": "b5ebbf0997cc854d",
+    "title": "Managing Dementia",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "HealthHub healthy ageing programme",
+    "url": "https://www.healthhub.sg/programmes/healthy-ageing/managing-dementia",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.306152+00:00"
+  },
+  {
+    "activity_id": "240b83b3097a2ada",
     "title": "Market Insights Trading Festival",
     "start_datetime_raw": "",
     "start_datetime_iso": "",
-    "location": "Suntec Convention Centre From SGD 0.00 MarketWise ASIA 433 followers Promoted",
+    "location": "Suntec Convention Centre From SGD 0.00 MarketWise ASIA 434 followers Promoted",
     "description": "Eventbrite listing for seniors-related activities",
     "url": "https://www.eventbrite.sg/e/market-insights-trading-festival-registration-1984985483014?aff=ebdssbdestsearch",
     "source": "eventbrite",
     "source_confidence": "medium",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.024697+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.498960+00:00"
+  },
+  {
+    "activity_id": "e665eab5fb47894e",
+    "title": "Marymount CSN Basketball Interest Group",
+    "start_datetime_raw": "01 Jan 2026 - 31 Dec 2026 10:00 AM - 10:00 PM",
+    "start_datetime_iso": "",
+    "location": "Marymount CC",
+    "description": "Marymount CSN Basketball Interest Group",
+    "url": "https://www.onepa.gov.sg/events/marymount-csn-basketball-interest-group-87256270",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.177564+00:00"
+  },
+  {
+    "activity_id": "1c2ce3ac336ee9e5",
+    "title": "Mdm Ong Overcomes Knee Pain with Exercise Try Low-Impact Aerobics",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Real-Life Stories See how others stay active, healthy, and independent. After joining a few of these exercise classes, the tightness in my knee has reduced and my body feels much more relaxed. I think this programme is very good for people like me. Mdm Ong, 60+ I look forward to",
+    "url": "https://www.healthhub.sg/programmes/healthy-ageing/health-programmes/live-well-age-well#live-active",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.306152+00:00"
+  },
+  {
+    "activity_id": "3b3bbbedf4c83740",
+    "title": "Mental Wellness",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Mental Wellness Personal Care Pregnancy & Infant Health Sexual Health Substance Addiction Travel Health",
+    "url": "https://www.healthhub.sg/well-being-and-lifestyle/mental-wellness",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.305179+00:00"
+  },
+  {
+    "activity_id": "9b9395f4f21e2627",
+    "title": "Moulmein-Cairnhill AAC and FLC Health Workshop on 22 March 2026- Season to take care of Liver Meridian",
+    "start_datetime_raw": "22 Mar 2026 3:00 PM - 5:00 PM",
+    "start_datetime_iso": "",
+    "location": "Tanglin CC",
+    "description": "Moulmein-Cairnhill AAC and FLC Health Workshop on 22 March 2026- Season to take care of Liver Meridian",
+    "url": "https://www.onepa.gov.sg/events/moulmein-cairnhill-aac-and-flc-health-workshop-on-22-march-2026-season-to-take-care-of-liver-meridian-46193423",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.309543+00:00"
+  },
+  {
+    "activity_id": "372f33be2343273f",
+    "title": "Mountbatten CC New Vogue January to March 2026",
+    "start_datetime_raw": "02 Jan 2026 - 27 Mar 2026 6:00 PM - 9:00 PM",
+    "start_datetime_iso": "",
+    "location": "Mountbatten CC",
+    "description": "Mountbatten CC New Vogue January to March 2026",
+    "url": "https://www.onepa.gov.sg/events/mountbatten-cc-new-vogue-january-to-march-2026-46004088",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.229842+00:00"
   },
   {
     "activity_id": "de5bcf86e19ccf53",
@@ -322,7 +1674,33 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822369+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.036060+00:00"
+  },
+  {
+    "activity_id": "ca8f85a3e741773f",
+    "title": "NSE - Karaoke (1 March 2026 - 31 March 2026)",
+    "start_datetime_raw": "01 Mar 2026 - 31 Mar 2026 1:00 PM - 5:00 PM",
+    "start_datetime_iso": "",
+    "location": "Nee Soon East CC",
+    "description": "NSE - Karaoke (1 March 2026 - 31 March 2026)",
+    "url": "https://www.onepa.gov.sg/events/nse-karaoke-1-march-2026-31-march-2026-57619633",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.304750+00:00"
+  },
+  {
+    "activity_id": "46a063c5550e7689",
+    "title": "Nee Soon South Zone F RN Karaoke (Mar 26)",
+    "start_datetime_raw": "01 Mar 2026 - 31 Mar 2026 10:00 AM - 10:00 PM",
+    "start_datetime_iso": "",
+    "location": "Nee Soon South Zone F RN",
+    "description": "Nee Soon South Zone F RN Karaoke (Mar 26)",
+    "url": "https://www.onepa.gov.sg/events/nee-soon-south-zone-f-rn-karaoke-mar-26-73205045",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.199832+00:00"
   },
   {
     "activity_id": "ab674c4a6a51f5af",
@@ -335,7 +1713,72 @@
     "source": "eventbrite",
     "source_confidence": "medium",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.028519+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.530709+00:00"
+  },
+  {
+    "activity_id": "60ba727b08110a84",
+    "title": "Our Digital Ambassadors",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Digital for Life digital club / event listing",
+    "url": "https://www.digitalforlife.gov.sg/about/our-digital-ambassadors",
+    "source": "digitalforlife",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:18.218702+00:00"
+  },
+  {
+    "activity_id": "3673d27c8c93cdda",
+    "title": "Our Programmes and Projects",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Digital for Life digital club / event listing",
+    "url": "https://www.digitalforlife.gov.sg/about/our-projects",
+    "source": "digitalforlife",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:18.218702+00:00"
+  },
+  {
+    "activity_id": "66018741bb2c0ab1",
+    "title": "PEK KIO SCEC FOLK DANCE (MARCH 2026 & APRIL 2026) (EVERY THURSDAY)",
+    "start_datetime_raw": "12 Mar 2026 - 30 Apr 2026 8:00 PM - 9:30 PM",
+    "start_datetime_iso": "",
+    "location": "Pek Kio CC",
+    "description": "PEK KIO SCEC FOLK DANCE (MARCH 2026 & APRIL 2026) (EVERY THURSDAY)",
+    "url": "https://www.onepa.gov.sg/events/pek-kio-scec-folk-dance-march-2026-april-2026-every-thursday-58448860",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.249029+00:00"
+  },
+  {
+    "activity_id": "f57e96fa1e4402c1",
+    "title": "PK SCEC MOTHER'S DAY FLOWER WORKSHOP 16 OR 23 APRIL 2026",
+    "start_datetime_raw": "16 Apr 2026 - 23 Apr 2026 2:00 PM - 4:00 PM",
+    "start_datetime_iso": "",
+    "location": "Pek Kio CC",
+    "description": "PK SCEC MOTHER'S DAY FLOWER WORKSHOP 16 OR 23 APRIL 2026",
+    "url": "https://www.onepa.gov.sg/events/pk-scec-mother-s-day-flower-workshop-16-or-23-april-2026-47919567",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.308495+00:00"
+  },
+  {
+    "activity_id": "b16b6994a959f778",
+    "title": "PLKCC's Social Dance Nite on 4 April 2026",
+    "start_datetime_raw": "04 Apr 2026 6:30 PM - 9:30 PM",
+    "start_datetime_iso": "",
+    "location": "Paya Lebar Kovan CC",
+    "description": "PLKCC's Social Dance Nite on 4 April 2026",
+    "url": "https://www.onepa.gov.sg/events/plkcc-s-social-dance-nite-on-4-april-2026-52581486",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.222838+00:00"
   },
   {
     "activity_id": "a94334a06523a28c",
@@ -348,7 +1791,59 @@
     "source": "eventbrite",
     "source_confidence": "medium",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.028137+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.530709+00:00"
+  },
+  {
+    "activity_id": "75ce69c59afc1540",
+    "title": "Pasir RIs Zone 2 RN (A8466) Tai Chi - Mar 26",
+    "start_datetime_raw": "05 Mar 2026 - 26 Mar 2026 7:00 PM - 9:00 PM",
+    "start_datetime_iso": "",
+    "location": "Pasir Ris Zone 2 RN",
+    "description": "Pasir RIs Zone 2 RN (A8466) Tai Chi - Mar 26",
+    "url": "https://www.onepa.gov.sg/events/pasir-ris-zone-2-rn-a8466-tai-chi-mar-26-30338070",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.282466+00:00"
+  },
+  {
+    "activity_id": "d5511b7b5bd54f09",
+    "title": "Pasir Ris Zone 2 RN (A7773) Resistance Band - Mar 26",
+    "start_datetime_raw": "07 Mar 2026 - 28 Mar 2026 7:30 AM - 9:30 AM",
+    "start_datetime_iso": "",
+    "location": "Pasir Ris Zone 2 RN",
+    "description": "Pasir Ris Zone 2 RN (A7773) Resistance Band - Mar 26",
+    "url": "https://www.onepa.gov.sg/events/pasir-ris-zone-2-rn-a7773-resistance-band-mar-26-78130194",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.283465+00:00"
+  },
+  {
+    "activity_id": "ccf1aa99bfd71a52",
+    "title": "Paya Lebar Wellness Centre - Cafe Corner",
+    "start_datetime_raw": "01 Jan 2026 - 31 Dec 2026 8:00 AM - 6:00 PM",
+    "start_datetime_iso": "",
+    "location": "Aljunied CC",
+    "description": "Paya Lebar Wellness Centre - Cafe Corner",
+    "url": "https://www.onepa.gov.sg/events/paya-lebar-wellness-centre-cafe-corner-54081107",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.263115+00:00"
+  },
+  {
+    "activity_id": "c06d903eb7328535",
+    "title": "Pregnancy & Infant Health",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "HealthHub healthy ageing programme",
+    "url": "https://www.healthhub.sg/well-being-and-lifestyle/pregnancy-and-infant-health",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.305179+00:00"
   },
   {
     "activity_id": "08566ac9d7518a97",
@@ -361,7 +1856,7 @@
     "source": "eventbrite",
     "source_confidence": "medium",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.028191+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.530709+00:00"
   },
   {
     "activity_id": "66f4fcafa2a61f17",
@@ -374,7 +1869,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823461+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "c4d3ca95c8ad4ee0",
@@ -387,7 +1882,46 @@
     "source": "eventbrite",
     "source_confidence": "medium",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.026508+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.498960+00:00"
+  },
+  {
+    "activity_id": "77f77f22c0d1838d",
+    "title": "Punggol Shore Sing Along 2026 (20 March 2026)",
+    "start_datetime_raw": "20 Mar 2026 6:30 PM - 9:30 PM",
+    "start_datetime_iso": "",
+    "location": "Punggol 21 CC",
+    "description": "Punggol Shore Sing Along 2026 (20 March 2026)",
+    "url": "https://www.onepa.gov.sg/events/punggol-shore-sing-along-2026-20-march-2026-76732496",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.277466+00:00"
+  },
+  {
+    "activity_id": "47906b3ab84af485",
+    "title": "RN3 Karaoke (Mar 2026)",
+    "start_datetime_raw": "01 Mar 2026 - 31 Mar 2026 9:00 AM - 5:00 PM",
+    "start_datetime_iso": "",
+    "location": "Potong Pasir Zone 3 RN",
+    "description": "RN3 Karaoke (Mar 2026)",
+    "url": "https://www.onepa.gov.sg/events/rn3-karaoke-mar-2026-96972153",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.263115+00:00"
+  },
+  {
+    "activity_id": "7900d9640a89cb44",
+    "title": "Read more",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Trending Trending Q&A: Spicy Food and Big Appetite Read more Q&A: Expired Health Supplements and Eggs in Diet Read more",
+    "url": "https://www.healthhub.sg/highlights-and-insights/expert-voices/your-medical-questions-answered-spicy-food-and-big-appetite?sc_camp=92BD09F5EE6A45DEC5A69E51369C1DA0",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.305179+00:00"
   },
   {
     "activity_id": "81706dd33d15c88e",
@@ -400,7 +1934,176 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822396+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.036060+00:00"
+  },
+  {
+    "activity_id": "17de09a539919a68",
+    "title": "SCEC Acupuncture Point Massage Talk (Mandarin) 穴位按摩讲座(华语) - 28.03.26",
+    "start_datetime_raw": "28 Mar 2026 9:30 AM - 11:30 AM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh Central CC",
+    "description": "SCEC Acupuncture Point Massage Talk (Mandarin) 穴位按摩讲座(华语) - 28.03.26",
+    "url": "https://www.onepa.gov.sg/events/scec-acupuncture-point-massage-talk-mandarin-28-03-26-20394588",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.220821+00:00"
+  },
+  {
+    "activity_id": "af93e30abf33b49a",
+    "title": "SCEC Coffee Session for Seniors - 13.4.2026",
+    "start_datetime_raw": "13 Apr 2026 8:00 AM - 10:00 AM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh Central CC",
+    "description": "SCEC Coffee Session for Seniors - 13.4.2026",
+    "url": "https://www.onepa.gov.sg/events/scec-coffee-session-for-seniors-13-4-2026-82788448",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.296813+00:00"
+  },
+  {
+    "activity_id": "b44d93a5c668ff62",
+    "title": "SCEC Free Haircut for Seniors- 19.4.26",
+    "start_datetime_raw": "19 Apr 2026 9:00 AM - 10:30 AM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh Central CC",
+    "description": "SCEC Free Haircut for Seniors- 19.4.26",
+    "url": "https://www.onepa.gov.sg/events/scec-free-haircut-for-seniors-19-4-26-15444535",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.299828+00:00"
+  },
+  {
+    "activity_id": "bbf407f067c093b8",
+    "title": "SCEC Workout Exercise - Fabulous, Fit and Fun",
+    "start_datetime_raw": "22 Mar 2026 9:30 AM - 1:00 PM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh East CC",
+    "description": "SCEC Workout Exercise - Fabulous, Fit and Fun",
+    "url": "https://www.onepa.gov.sg/events/scec-workout-exercise-fabulous-fit-and-fun-20433159",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.248031+00:00"
+  },
+  {
+    "activity_id": "cfb0a4ca0898bd77",
+    "title": "SCEC 免费乐龄数码学习课程 Free Digital Workshop for Seniors - 20.3.26",
+    "start_datetime_raw": "20 Mar 2026 10:00 AM - 12:00 PM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh Central CC",
+    "description": "SCEC 免费乐龄数码学习课程 Free Digital Workshop for Seniors - 20.3.26",
+    "url": "https://www.onepa.gov.sg/events/scec-free-digital-workshop-for-seniors-20-3-26-81194311",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.213849+00:00"
+  },
+  {
+    "activity_id": "73e8c31d2751141c",
+    "title": "SS Health and Wellness Series: Geriatric Mental Health",
+    "start_datetime_raw": "19 Apr 2026 10:00 AM - 11:00 AM",
+    "start_datetime_iso": "",
+    "location": "Hwi Yoh CC",
+    "description": "SS Health and Wellness Series: Geriatric Mental Health",
+    "url": "https://www.onepa.gov.sg/events/ss-health-and-wellness-series-geriatric-mental-health-40329294",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.311541+00:00"
+  },
+  {
+    "activity_id": "e25558a5e5bb038b",
+    "title": "SWRN RUMMY-O 2 APR 26",
+    "start_datetime_raw": "02 Apr 2026 1:00 PM - 6:30 PM",
+    "start_datetime_iso": "",
+    "location": "Selegie-Waterloo RN",
+    "description": "SWRN RUMMY-O 2 APR 26",
+    "url": "https://www.onepa.gov.sg/events/swrn-rummy-o-2-apr-26-26792229",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.214842+00:00"
+  },
+  {
+    "activity_id": "3dda3c5273207f53",
+    "title": "SWRN RUMMY-O 21 MAY 26 THU",
+    "start_datetime_raw": "21 May 2026 1:00 PM - 6:30 PM",
+    "start_datetime_iso": "",
+    "location": "Selegie-Waterloo RN",
+    "description": "SWRN RUMMY-O 21 MAY 26 THU",
+    "url": "https://www.onepa.gov.sg/events/swrn-rummy-o-21-may-26-thu-28402146",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.262111+00:00"
+  },
+  {
+    "activity_id": "a0db9789e4151d0a",
+    "title": "SWRN RUMMY-O 9 APR 26",
+    "start_datetime_raw": "09 Apr 2026 1:00 PM - 6:30 PM",
+    "start_datetime_iso": "",
+    "location": "Selegie-Waterloo RN",
+    "description": "SWRN RUMMY-O 9 APR 26",
+    "url": "https://www.onepa.gov.sg/events/swrn-rummy-o-9-apr-26-59680257",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.214842+00:00"
+  },
+  {
+    "activity_id": "d786aa71227e9eb5",
+    "title": "Screening",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "HealthHub healthy ageing programme",
+    "url": "https://www.healthhub.sg/support-and-tools/screening",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.305179+00:00"
+  },
+  {
+    "activity_id": "ec7a7088b146f371",
+    "title": "Seletar-Serangoon AAC: Line Dance Jam (25 April 2026)",
+    "start_datetime_raw": "25 Apr 2026 6:00 PM - 9:30 PM",
+    "start_datetime_iso": "",
+    "location": "Hwi Yoh CC",
+    "description": "Seletar-Serangoon AAC: Line Dance Jam (25 April 2026)",
+    "url": "https://www.onepa.gov.sg/events/seletar-serangoon-aac-line-dance-jam-25-april-2026-77222244",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.312542+00:00"
+  },
+  {
+    "activity_id": "670e77af23f8df01",
+    "title": "Senior",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Personalise Content Select a profile to personalise content and resources for you: Senior Parent Youth Adult Browse without profile Personalise your browsing experience! Select a profile to personalise content and resources for you Personalise my experience Browse without profile",
+    "url": "https://www.digitalforlife.gov.sg/senior",
+    "source": "digitalforlife",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:18.218702+00:00"
+  },
+  {
+    "activity_id": "d51a139282b0a6cc",
+    "title": "Sexual Health",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "HealthHub healthy ageing programme",
+    "url": "https://www.healthhub.sg/well-being-and-lifestyle/sexual-health",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.305179+00:00"
   },
   {
     "activity_id": "8d1bccfb846908d7",
@@ -413,7 +2116,7 @@
     "source": "eventbrite",
     "source_confidence": "medium",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.028176+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.530709+00:00"
   },
   {
     "activity_id": "f1e499373b595784",
@@ -426,7 +2129,33 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822340+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.036060+00:00"
+  },
+  {
+    "activity_id": "8d80a6713b5e98da",
+    "title": "Show all results",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "e Be Inspired Online Safety Festival",
+    "description": "Show all results About Back About Digital for Life Movement & Fund Our Programmes and Projects Our Digital Ambassadors Our Partners News Releases Contact Us Learn Back Learn Events Resources Contribute Back Contribute Start a Project Partner with Us Volunteer Donate Be Inspired O",
+    "url": "https://www.digitalforlife.gov.sg/learn/events/all-events/listing-of-digital-for-life---digital-clubs",
+    "source": "digitalforlife",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:18.217696+00:00"
+  },
+  {
+    "activity_id": "7d0dd0ab87f9e1fc",
+    "title": "Sign up now",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Clear Search Search Sign up now My e-Services My e-Services Search Menu Healthcare Directory Help Centre",
+    "url": "https://www.healthhub.sg/overlays/overlay-content",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.304153+00:00"
   },
   {
     "activity_id": "91e66181ebc908e5",
@@ -439,20 +2168,59 @@
     "source": "eventbrite",
     "source_confidence": "medium",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.028491+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.530709+00:00"
   },
   {
-    "activity_id": "9f9cf74296a50e8c",
-    "title": "Singapore ranks #23 in Time Out’s Best Cities 2026 – here’s what locals said about living here",
+    "activity_id": "1f7c5589825bf622",
+    "title": "Singapore’s most unexpected party is happening under dinosaurs – last chance to get advance tickets",
     "start_datetime_raw": "",
     "start_datetime_iso": "",
     "location": "Singapore",
     "description": "Time Out Singapore things-to-do/event listing",
-    "url": "https://www.timeout.com/singapore/news/singapore-ranks-23-in-time-outs-best-cities-2026-heres-what-locals-said-about-living-here-031126",
+    "url": "https://www.timeout.com/singapore/news/singapores-most-unexpected-party-is-happening-under-dinosaurs-last-chance-to-get-advance-tickets-031726",
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822601+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.036060+00:00"
+  },
+  {
+    "activity_id": "340bf871a5fb5902",
+    "title": "Sit-Down Exercises",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "HealthHub healthy ageing programme",
+    "url": "https://www.healthhub.sg/programmes/healthy-ageing/keeping-active/sit-down-exercises",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.306152+00:00"
+  },
+  {
+    "activity_id": "f304631596c2d8eb",
+    "title": "Statistics on Healthcare",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "HealthHub healthy ageing programme",
+    "url": "https://www.healthhub.sg/support-and-tools/statistics-on-healthcare",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.305179+00:00"
+  },
+  {
+    "activity_id": "b30b26b311bfa4cc",
+    "title": "Stay Active with Friends",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "I look forward to coming to the sessions to meet my new friends and it is motivating to exercise with friends. It makes me want to exercise more. Mdm Chin, 67 Stay Active with Friends",
+    "url": "https://www.healthhub.sg/programmes/healthy-ageing/health-programmes/live-well-age-well#live-active?tab=rolling-good-times",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.306152+00:00"
   },
   {
     "activity_id": "456dba38dd301bbd",
@@ -465,7 +2233,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822551+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.036060+00:00"
   },
   {
     "activity_id": "811e3a45e2dc90c7",
@@ -478,7 +2246,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822675+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "e569c38de85ecd36",
@@ -491,7 +2259,72 @@
     "source": "lionsbefrienders",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:18.293439+00:00"
+    "last_seen_at": "2026-03-18T03:25:30.030821+00:00"
+  },
+  {
+    "activity_id": "c53879d9478100f7",
+    "title": "Sunday Line Dance Jam (IG) on 29 March 2026",
+    "start_datetime_raw": "29 Mar 2026 2:00 PM - 6:00 PM",
+    "start_datetime_iso": "",
+    "location": "The Serangoon CC",
+    "description": "Sunday Line Dance Jam (IG) on 29 March 2026",
+    "url": "https://www.onepa.gov.sg/events/sunday-line-dance-jam-ig-on-29-march-2026-11518212",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.276451+00:00"
+  },
+  {
+    "activity_id": "42402f28f6e8943a",
+    "title": "Support & Care Programmes",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Support & Care Programmes Screening",
+    "url": "https://www.healthhub.sg/support-and-tools/support-and-care-programmes",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.305179+00:00"
+  },
+  {
+    "activity_id": "a6ca4c207aea35df",
+    "title": "TH WEC Board & Mind Games - 19 March 26",
+    "start_datetime_raw": "19 Mar 2026 11:00 AM - 5:00 PM",
+    "start_datetime_iso": "",
+    "location": "Thomson CC",
+    "description": "TH WEC Board & Mind Games - 19 March 26",
+    "url": "https://www.onepa.gov.sg/events/th-wec-board-mind-games-19-march-26-70293515",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.297816+00:00"
+  },
+  {
+    "activity_id": "1cf3e6329702a810",
+    "title": "Tampines Central SCEC - MARCH Line Dance Session 2026 (001)",
+    "start_datetime_raw": "28 Mar 2026 6:00 PM - 9:00 PM",
+    "start_datetime_iso": "",
+    "location": "Tampines Central CC",
+    "description": "Tampines Central SCEC - MARCH Line Dance Session 2026 (001)",
+    "url": "https://www.onepa.gov.sg/events/tampines-central-scec-march-line-dance-session-2026-001-47268138",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.181588+00:00"
+  },
+  {
+    "activity_id": "ca6d8b365862751d",
+    "title": "The Official Tarang Afters - By KLTR",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Phuture at Zouk Singapore",
+    "description": "Eventbrite listing for seniors-related activities",
+    "url": "https://www.eventbrite.com/e/the-official-tarang-afters-by-kltr-tickets-1983610055072?aff=ebdssbdestsearch",
+    "source": "eventbrite",
+    "source_confidence": "medium",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:25:23.530709+00:00"
   },
   {
     "activity_id": "62c4f0ed9fd0441c",
@@ -504,7 +2337,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823236+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "84738b1752d6e907",
@@ -517,7 +2350,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822900+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "efe6ee51d478bbf5",
@@ -530,7 +2363,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822865+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "45b9672f77d99159",
@@ -543,7 +2376,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823103+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "e7e23ede9d0f5793",
@@ -556,7 +2389,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823045+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "f072a7c6f94f0681",
@@ -569,7 +2402,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822959+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "5d2182790297152d",
@@ -582,7 +2415,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823017+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "72b5d271806a3e14",
@@ -595,7 +2428,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822806+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "163987e2581178c2",
@@ -608,7 +2441,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822775+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "d1cd6ca0ad1e878d",
@@ -621,7 +2454,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822930+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "3e638f8d8dc9f5a5",
@@ -634,7 +2467,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822988+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "e6b8c1ada25f3bbc",
@@ -647,7 +2480,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823075+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "3d44703300f0dc1a",
@@ -660,7 +2493,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822836+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "81a1f037860b4730",
@@ -673,7 +2506,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823166+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "736c7486510a8197",
@@ -686,7 +2519,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822508+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.036060+00:00"
   },
   {
     "activity_id": "f66fc03bea645621",
@@ -699,7 +2532,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823201+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "bc22e6d4ede94c1b",
@@ -712,7 +2545,111 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822242+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.036060+00:00"
+  },
+  {
+    "activity_id": "263903f0094afa0c",
+    "title": "Thomson SCEC Social Dance Interest Group - Mar 2026 to May 2026",
+    "start_datetime_raw": "04 Mar 2026 - 27 May 2026 1:00 PM - 3:00 PM",
+    "start_datetime_iso": "",
+    "location": "Thomson CC",
+    "description": "Thomson SCEC Social Dance Interest Group - Mar 2026 to May 2026",
+    "url": "https://www.onepa.gov.sg/events/thomson-scec-social-dance-interest-group-mar-2026-to-may-2026-55111332",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.199832+00:00"
+  },
+  {
+    "activity_id": "1d7aa3ab23b3cd47",
+    "title": "Toa Payoh East CC IAEC Chair Champions - 28/03/26",
+    "start_datetime_raw": "28 Mar 2026 11:30 AM - 12:30 PM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh East CC",
+    "description": "Toa Payoh East CC IAEC Chair Champions - 28/03/26",
+    "url": "https://www.onepa.gov.sg/events/toa-payoh-east-cc-iaec-chair-champions-28-03-26-49363037",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.245029+00:00"
+  },
+  {
+    "activity_id": "d63da55aa3503730",
+    "title": "Toa Payoh East CC SCEC IG Group Live Band Sharing Session (Every Sunday 6.30pm to 9.30pm) - January to March 2026",
+    "start_datetime_raw": "04 Jan 2026 - 29 Mar 2026 6:30 PM - 9:30 PM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh East CC",
+    "description": "Toa Payoh East CC SCEC IG Group Live Band Sharing Session (Every Sunday 6.30pm to 9.30pm) - January to March 2026",
+    "url": "https://www.onepa.gov.sg/events/toa-payoh-east-cc-scec-ig-group-live-band-sharing-session-every-sunday-6-30pm-to-9-30pm-january-to-march-2026-80919110",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.163585+00:00"
+  },
+  {
+    "activity_id": "67c386b0e47f80e6",
+    "title": "Toa Payoh East CC SCEC IG Group Live Band Sharing Session (Every Thursday 6.30pm to 9.30pm) - January to March 2026",
+    "start_datetime_raw": "08 Jan 2026 - 26 Mar 2026 6:30 PM - 9:30 PM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh East CC",
+    "description": "Toa Payoh East CC SCEC IG Group Live Band Sharing Session (Every Thursday 6.30pm to 9.30pm) - January to March 2026",
+    "url": "https://www.onepa.gov.sg/events/toa-payoh-east-cc-scec-ig-group-live-band-sharing-session-every-thursday-6-30pm-to-9-30pm-january-to-march-2026-44181903",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.178567+00:00"
+  },
+  {
+    "activity_id": "df445a9acc2e6b6a",
+    "title": "Toa Payoh East CC SCEC Karaoke Singing (14/1/26 to 8/4/26) Every Wednesday 4.30pm to 8.30pm",
+    "start_datetime_raw": "14 Jan 2026 - 08 Apr 2026 4:30 PM - 8:30 PM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh East CC",
+    "description": "Toa Payoh East CC SCEC Karaoke Singing (14/1/26 to 8/4/26) Every Wednesday 4.30pm to 8.30pm",
+    "url": "https://www.onepa.gov.sg/events/toa-payoh-east-cc-scec-karaoke-singing-14-1-26-to-8-4-26-every-wednesday-4-30pm-to-8-30pm-79424797",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.176564+00:00"
+  },
+  {
+    "activity_id": "1576b0da5314494d",
+    "title": "Toa Payoh East CC SCEC Pickle Ball –February 2026 to April 2026",
+    "start_datetime_raw": "05 Feb 2026 - 30 Apr 2026 7:30 PM - 9:30 PM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh East CC",
+    "description": "Toa Payoh East CC SCEC Pickle Ball –February 2026 to April 2026",
+    "url": "https://www.onepa.gov.sg/events/toa-payoh-east-cc-scec-pickle-ball-february-2026-to-april-2026-14563744",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.230848+00:00"
+  },
+  {
+    "activity_id": "b4e8ad9aee3d331d",
+    "title": "Toa Payoh East SCEC Rummy O Games for Seniors (Jan 26 to Mar 26)",
+    "start_datetime_raw": "04 Jan 2026 - 29 Mar 2026 2:00 PM - 5:00 PM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh East CC",
+    "description": "Toa Payoh East SCEC Rummy O Games for Seniors (Jan 26 to Mar 26)",
+    "url": "https://www.onepa.gov.sg/events/toa-payoh-east-scec-rummy-o-games-for-seniors-jan-26-to-mar-26-10380858",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.179565+00:00"
+  },
+  {
+    "activity_id": "0cc13b2683cd25cd",
+    "title": "Toa Payoh East Zone 7 RN - Mandarin TCM Talk 更年期综合症 中医调养与穴位保健 11/4/2026 10am to 12pm",
+    "start_datetime_raw": "11 Apr 2026 10:00 AM - 12:00 PM",
+    "start_datetime_iso": "",
+    "location": "Toa Payoh East Zone 7 RN",
+    "description": "Toa Payoh East Zone 7 RN - Mandarin TCM Talk 更年期综合症 中医调养与穴位保健 11/4/2026 10am to 12pm",
+    "url": "https://www.onepa.gov.sg/events/toa-payoh-east-zone-7-rn-mandarin-tcm-talk-11-4-2026-10am-to-12pm-64279204",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.292462+00:00"
   },
   {
     "activity_id": "3850d85053e6bddb",
@@ -725,7 +2662,20 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.822709+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
+  },
+  {
+    "activity_id": "c4b68bf583aa58b5",
+    "title": "Travel Health",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "HealthHub healthy ageing programme",
+    "url": "https://www.healthhub.sg/well-being-and-lifestyle/travel-health",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.305179+00:00"
   },
   {
     "activity_id": "790125d3c9c9bf5b",
@@ -734,11 +2684,11 @@
     "start_datetime_iso": "",
     "location": "Singapore",
     "description": "Meetup seniors-related event listing",
-    "url": "https://www.meetup.com/sports-classes-in-singapore/events/313571950/?recId=ecfd9f7a-c52f-4ac7-bebc-ff8451045b7c&recSource=event-search&searchId=b003beda-399d-4b3f-850a-3bbe956b326d&eventOrigin=find_page%24all",
+    "url": "https://www.meetup.com/sports-classes-in-singapore/events/313571950/?recId=bef88ca4-79cf-4c6e-91ed-f0d26663f8fa&recSource=event-search&searchId=cf73b37f-6945-45a5-b743-95b1fe4f819c&eventOrigin=find_page%24all",
     "source": "meetup",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:22.103668+00:00"
+    "last_seen_at": "2026-03-18T03:26:13.035639+00:00"
   },
   {
     "activity_id": "76242eb942da21c4",
@@ -747,11 +2697,11 @@
     "start_datetime_iso": "",
     "location": "Singapore",
     "description": "Meetup seniors-related event listing",
-    "url": "https://www.meetup.com/sports-classes-in-singapore/events/313572548/?recId=ecfd9f7a-c52f-4ac7-bebc-ff8451045b7c&recSource=event-search&searchId=b003beda-399d-4b3f-850a-3bbe956b326d&eventOrigin=find_page%24all",
+    "url": "https://www.meetup.com/sports-classes-in-singapore/events/313572548/?recId=bef88ca4-79cf-4c6e-91ed-f0d26663f8fa&recSource=event-search&searchId=cf73b37f-6945-45a5-b743-95b1fe4f819c&eventOrigin=find_page%24all",
     "source": "meetup",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:22.103743+00:00"
+    "last_seen_at": "2026-03-18T03:26:13.035639+00:00"
   },
   {
     "activity_id": "554055f32be3809f",
@@ -760,11 +2710,11 @@
     "start_datetime_iso": "",
     "location": "Singapore",
     "description": "Meetup seniors-related event listing",
-    "url": "https://www.meetup.com/sports-classes-in-singapore/events/313572148/?recId=ecfd9f7a-c52f-4ac7-bebc-ff8451045b7c&recSource=event-search&searchId=b003beda-399d-4b3f-850a-3bbe956b326d&eventOrigin=find_page%24all",
+    "url": "https://www.meetup.com/sports-classes-in-singapore/events/313572148/?recId=bef88ca4-79cf-4c6e-91ed-f0d26663f8fa&recSource=event-search&searchId=cf73b37f-6945-45a5-b743-95b1fe4f819c&eventOrigin=find_page%24all",
     "source": "meetup",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:22.103632+00:00"
+    "last_seen_at": "2026-03-18T03:26:13.035639+00:00"
   },
   {
     "activity_id": "459b704333154f8e",
@@ -773,11 +2723,11 @@
     "start_datetime_iso": "",
     "location": "Singapore",
     "description": "Meetup seniors-related event listing",
-    "url": "https://www.meetup.com/sports-classes-in-singapore/events/313597573/?recId=ecfd9f7a-c52f-4ac7-bebc-ff8451045b7c&recSource=event-search&searchId=b003beda-399d-4b3f-850a-3bbe956b326d&eventOrigin=find_page%24all",
+    "url": "https://www.meetup.com/sports-classes-in-singapore/events/313597573/?recId=bef88ca4-79cf-4c6e-91ed-f0d26663f8fa&recSource=event-search&searchId=cf73b37f-6945-45a5-b743-95b1fe4f819c&eventOrigin=find_page%24all",
     "source": "meetup",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:22.103705+00:00"
+    "last_seen_at": "2026-03-18T03:26:13.035639+00:00"
   },
   {
     "activity_id": "0eeffd3fb33b5351",
@@ -786,24 +2736,11 @@
     "start_datetime_iso": "",
     "location": "Singapore",
     "description": "Meetup seniors-related event listing",
-    "url": "https://www.meetup.com/sports-classes-in-singapore/events/313571931/?recId=ecfd9f7a-c52f-4ac7-bebc-ff8451045b7c&recSource=event-search&searchId=b003beda-399d-4b3f-850a-3bbe956b326d&eventOrigin=find_page%24all",
+    "url": "https://www.meetup.com/sports-classes-in-singapore/events/313571931/?recId=bef88ca4-79cf-4c6e-91ed-f0d26663f8fa&recSource=event-search&searchId=cf73b37f-6945-45a5-b743-95b1fe4f819c&eventOrigin=find_page%24all",
     "source": "meetup",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:22.103553+00:00"
-  },
-  {
-    "activity_id": "8a97b157ff2ff4f7",
-    "title": "Waitlist Salsa Group Class (Adults, All Levels) Every Sat · Mar 21 · 12:15 PM SST by Singapore Sports Classes 1 attendee",
-    "start_datetime_raw": "",
-    "start_datetime_iso": "",
-    "location": "Singapore",
-    "description": "Meetup seniors-related event listing",
-    "url": "https://www.meetup.com/sports-classes-in-singapore/events/313582765/?recId=ecfd9f7a-c52f-4ac7-bebc-ff8451045b7c&recSource=event-search&searchId=b003beda-399d-4b3f-850a-3bbe956b326d&eventOrigin=find_page%24all",
-    "source": "meetup",
-    "source_confidence": "low",
-    "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:22.104727+00:00"
+    "last_seen_at": "2026-03-18T03:26:13.032638+00:00"
   },
   {
     "activity_id": "ae784e60570dbf99",
@@ -816,20 +2753,7 @@
     "source": "timeoutsg",
     "source_confidence": "low",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823266+00:00"
-  },
-  {
-    "activity_id": "aa2e651bb27ae5f0",
-    "title": "Women in Focus Film Festival",
-    "start_datetime_raw": "",
-    "start_datetime_iso": "",
-    "location": "Singapore",
-    "description": "Time Out Singapore things-to-do/event listing",
-    "url": "https://www.timeout.com/singapore/things-to-do/women-in-focus-film-festival",
-    "source": "timeoutsg",
-    "source_confidence": "low",
-    "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:23.823411+00:00"
+    "last_seen_at": "2026-03-18T03:26:15.037060+00:00"
   },
   {
     "activity_id": "cb016e84cdfd7509",
@@ -842,33 +2766,306 @@
     "source": "eventbrite",
     "source_confidence": "medium",
     "status": "undated",
-    "last_seen_at": "2026-03-16T16:33:17.026473+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.498960+00:00"
   },
   {
-    "activity_id": "28c7e760d0d49e4a",
-    "title": "Evidence-Based Sound Therapy",
-    "start_datetime_raw": "Wednesday at 6:30",
-    "start_datetime_iso": "2026-03-18T06:30:00+00:00",
-    "location": "International Plaza Singapore (#10-23)",
-    "description": "Eventbrite listing for seniors-related activities",
-    "url": "https://www.eventbrite.sg/e/evidence-based-sound-therapy-tickets-1429832540619?aff=ebdssbdestsearch",
-    "source": "eventbrite",
+    "activity_id": "cbbea47267883620",
+    "title": "Yuhua Zone 8 Line Dance (January - March 2026)",
+    "start_datetime_raw": "02 Jan 2026 - 27 Mar 2026 9:00 AM - 10:00 AM",
+    "start_datetime_iso": "",
+    "location": "Yuhua Zone 8 RN",
+    "description": "Yuhua Zone 8 Line Dance (January - March 2026)",
+    "url": "https://www.onepa.gov.sg/events/yuhua-zone-8-line-dance-january-march-2026-89221191",
+    "source": "onepa",
     "source_confidence": "high",
-    "status": "upcoming",
-    "last_seen_at": "2026-03-16T16:33:17.026441+00:00"
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.168566+00:00"
   },
   {
-    "activity_id": "77b3e030d41d69fa",
-    "title": "The Official Tarang Afters - By KLTR",
-    "start_datetime_raw": "Wednesday at 10:00",
-    "start_datetime_iso": "2026-03-18T10:00:00+00:00",
-    "location": "Phuture at Zouk Singapore",
-    "description": "Eventbrite listing for seniors-related activities",
-    "url": "https://www.eventbrite.com/e/the-official-tarang-afters-by-kltr-tickets-1983610055072?aff=ebdssbdestsearch",
-    "source": "eventbrite",
+    "activity_id": "25e80afeaa176bac",
+    "title": "Yuhua Zone 9 @ TGP 2026 Jan to Mar - 312 Meridian Exercise",
+    "start_datetime_raw": "01 Jan 2026 - 31 Mar 2026 7:00 PM - 9:30 PM",
+    "start_datetime_iso": "",
+    "location": "Yuhua Zone 9 @ Tgp RN",
+    "description": "Yuhua Zone 9 @ TGP 2026 Jan to Mar - 312 Meridian Exercise",
+    "url": "https://www.onepa.gov.sg/events/yuhua-zone-9-tgp-2026-jan-to-mar-312-meridian-exercise-24167056",
+    "source": "onepa",
     "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.171566+00:00"
+  },
+  {
+    "activity_id": "465a63ce72e8ceae",
+    "title": "Yuhua Zone 9 @ TGP 2026 Jan to Mar - FunWalk",
+    "start_datetime_raw": "01 Jan 2026 - 31 Mar 2026 6:30 AM - 8:30 AM",
+    "start_datetime_iso": "",
+    "location": "Yuhua Zone 9 @ Tgp RN",
+    "description": "Yuhua Zone 9 @ TGP 2026 Jan to Mar - FunWalk",
+    "url": "https://www.onepa.gov.sg/events/yuhua-zone-9-tgp-2026-jan-to-mar-funwalk-39174806",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.174564+00:00"
+  },
+  {
+    "activity_id": "62e3deb690514938",
+    "title": "Yuhua Zone 9 @ TGP 2026 Jan to Mar - Line Dance",
+    "start_datetime_raw": "01 Jan 2026 - 31 Mar 2026 7:00 PM - 9:30 PM",
+    "start_datetime_iso": "",
+    "location": "Yuhua Zone 9 @ Tgp RN",
+    "description": "Yuhua Zone 9 @ TGP 2026 Jan to Mar - Line Dance",
+    "url": "https://www.onepa.gov.sg/events/yuhua-zone-9-tgp-2026-jan-to-mar-line-dance-73893116",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.175564+00:00"
+  },
+  {
+    "activity_id": "353a73bae439858a",
+    "title": "Yuhua Zone 9 @ TGP 2026 Jan to Mar - Pai Du Cao",
+    "start_datetime_raw": "01 Jan 2026 - 31 Mar 2026 7:00 PM - 10:00 PM",
+    "start_datetime_iso": "",
+    "location": "Yuhua Zone 9 @ Tgp RN",
+    "description": "Yuhua Zone 9 @ TGP 2026 Jan to Mar - Pai Du Cao",
+    "url": "https://www.onepa.gov.sg/events/yuhua-zone-9-tgp-2026-jan-to-mar-pai-du-cao-26087570",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.201782+00:00"
+  },
+  {
+    "activity_id": "f55fa7c97a5f590b",
+    "title": "Yuhua Zone 9 @ TGP 2026 Jan to Mar - Qi Gong IG",
+    "start_datetime_raw": "01 Jan 2026 - 31 Mar 2026 5:00 AM - 8:30 AM",
+    "start_datetime_iso": "",
+    "location": "Yuhua Zone 9 @ Tgp RN",
+    "description": "Yuhua Zone 9 @ TGP 2026 Jan to Mar - Qi Gong IG",
+    "url": "https://www.onepa.gov.sg/events/yuhua-zone-9-tgp-2026-jan-to-mar-qi-gong-ig-34619551",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.202789+00:00"
+  },
+  {
+    "activity_id": "880ec8269e73645b",
+    "title": "Yuhua Zone 9 @ TGP 2026 Jan to Mar - Tai Ji IG",
+    "start_datetime_raw": "01 Jan 2026 - 31 Mar 2026 6:30 AM - 9:30 AM",
+    "start_datetime_iso": "",
+    "location": "Yuhua Zone 9 @ Tgp RN",
+    "description": "Yuhua Zone 9 @ TGP 2026 Jan to Mar - Tai Ji IG",
+    "url": "https://www.onepa.gov.sg/events/yuhua-zone-9-tgp-2026-jan-to-mar-tai-ji-ig-97201073",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.205823+00:00"
+  },
+  {
+    "activity_id": "a13771763190822d",
+    "title": "Yuhua Zone 9 @ TGP 2026 Jan to Mar - Wellness Dancercise IG",
+    "start_datetime_raw": "01 Jan 2026 - 31 Mar 2026 7:30 AM - 10:00 AM",
+    "start_datetime_iso": "",
+    "location": "Yuhua Zone 9 @ Tgp RN",
+    "description": "Yuhua Zone 9 @ TGP 2026 Jan to Mar - Wellness Dancercise IG",
+    "url": "https://www.onepa.gov.sg/events/yuhua-zone-9-tgp-2026-jan-to-mar-wellness-dancercise-ig-83717665",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.204772+00:00"
+  },
+  {
+    "activity_id": "8ba1d6cf831de9b1",
+    "title": "[AAC] Grandparents' Day Variety Show",
+    "start_datetime_raw": "24 May 2026 2:00 PM - 5:00 PM",
+    "start_datetime_iso": "",
+    "location": "Siglap South CC",
+    "description": "[AAC] Grandparents' Day Variety Show",
+    "url": "https://www.onepa.gov.sg/events/aac-grandparents-day-variety-show-66466002",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.207871+00:00"
+  },
+  {
+    "activity_id": "a7c0cf31f8d50e27",
+    "title": "[Ang Mo Kio CC WEC] Line Dance Jam - Sunday 26 April 2026",
+    "start_datetime_raw": "26 Apr 2026 2:00 PM - 6:00 PM",
+    "start_datetime_iso": "",
+    "location": "Ang Mo Kio CC",
+    "description": "[Ang Mo Kio CC WEC] Line Dance Jam - Sunday 26 April 2026",
+    "url": "https://www.onepa.gov.sg/events/ang-mo-kio-cc-wec-line-dance-jam-sunday-26-april-2026-33223655",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.305759+00:00"
+  },
+  {
+    "activity_id": "c6c4217c1260d088",
+    "title": "[Fernvale Zone B] Digital for Life : Digital Workshop (8 April 2026)",
+    "start_datetime_raw": "08 Apr 2026 10:00 AM - 12:00 PM",
+    "start_datetime_iso": "",
+    "location": "Fernvale Zone B RN",
+    "description": "[Fernvale Zone B] Digital for Life : Digital Workshop (8 April 2026)",
+    "url": "https://www.onepa.gov.sg/events/fernvale-zone-b-digital-for-life-digital-workshop-8-april-2026-55109336",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.303753+00:00"
+  },
+  {
+    "activity_id": "079431d9938a19f8",
+    "title": "[Ixora RC 2026] English Karaoke Interest Group - Every Monday",
+    "start_datetime_raw": "12 Jan 2026 - 31 Dec 2026 9:00 AM - 1:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bedok Ixora RC",
+    "description": "[Ixora RC 2026] English Karaoke Interest Group - Every Monday",
+    "url": "https://www.onepa.gov.sg/events/ixora-rc-2026-english-karaoke-interest-group-every-monday-23963534",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.239010+00:00"
+  },
+  {
+    "activity_id": "4e7d448671e47000",
+    "title": "[Ixora RC 2026] Mandarin Karaoke Interest Group - Every Friday",
+    "start_datetime_raw": "01 Jan 2026 - 31 Dec 2026 9:00 AM - 1:00 PM",
+    "start_datetime_iso": "",
+    "location": "Bedok Ixora RC",
+    "description": "[Ixora RC 2026] Mandarin Karaoke Interest Group - Every Friday",
+    "url": "https://www.onepa.gov.sg/events/ixora-rc-2026-mandarin-karaoke-interest-group-every-friday-73706117",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.218823+00:00"
+  },
+  {
+    "activity_id": "2be91927172e32a7",
+    "title": "[Limbang CC SCEC] Briskwalk at Punggol Waterway Park - 15 April 2026",
+    "start_datetime_raw": "15 Apr 2026 8:00 AM - 1:00 PM",
+    "start_datetime_iso": "",
+    "location": "Limbang CC",
+    "description": "[Limbang CC SCEC] Briskwalk at Punggol Waterway Park - 15 April 2026",
+    "url": "https://www.onepa.gov.sg/events/limbang-cc-scec-briskwalk-at-punggol-waterway-park-15-april-2026-61380132",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.257031+00:00"
+  },
+  {
+    "activity_id": "979bd159f5016428",
+    "title": "[Limbang CC SCEC] Movie Screening (A Good Fortune} - 25 March 2026, Wednesday",
+    "start_datetime_raw": "25 Mar 2026 10:00 AM - 1:00 PM",
+    "start_datetime_iso": "",
+    "location": "Limbang CC",
+    "description": "[Limbang CC SCEC] Movie Screening (A Good Fortune} - 25 March 2026, Wednesday",
+    "url": "https://www.onepa.gov.sg/events/limbang-cc-scec-movie-screening-a-good-fortune-25-march-2026-wednesday-39450506",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.268012+00:00"
+  },
+  {
+    "activity_id": "b05171d43b73f91d",
+    "title": "[Limbang-YMG] Yew Mei Green Senior Karaoke (March 2026)",
+    "start_datetime_raw": "25 Mar 2026 6:00 PM - 10:00 PM",
+    "start_datetime_iso": "",
+    "location": "Yew Mei Green RN",
+    "description": "[Limbang-YMG] Yew Mei Green Senior Karaoke (March 2026)",
+    "url": "https://www.onepa.gov.sg/events/limbang-ymg-yew-mei-green-senior-karaoke-march-2026-40444102",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.275013+00:00"
+  },
+  {
+    "activity_id": "ca1f8d2801a42814",
+    "title": "[Woodlands Zone 2 RN] - Dance Fit Club (HealthierSG)",
+    "start_datetime_raw": "02 Sep 2025 - 25 Aug 2026 7:30 PM - 9:30 PM",
+    "start_datetime_iso": "",
+    "location": "Woodlands Zone 2 RN",
+    "description": "[Woodlands Zone 2 RN] - Dance Fit Club (HealthierSG)",
+    "url": "https://www.onepa.gov.sg/events/woodlands-zone-2-rn-dance-fit-club-healthiersg-39858500",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.294205+00:00"
+  },
+  {
+    "activity_id": "07eb94815d1c5124",
+    "title": "[Yew Tee AAC] Digital for Life, Set Up and Use Smart Devices (18 March 2026)",
+    "start_datetime_raw": "18 Mar 2026 2:00 PM - 4:00 PM",
+    "start_datetime_iso": "",
+    "location": "Yew Tee CC",
+    "description": "[Yew Tee AAC] Digital for Life, Set Up and Use Smart Devices (18 March 2026)",
+    "url": "https://www.onepa.gov.sg/events/yew-tee-aac-digital-for-life-set-up-and-use-smart-devices-18-march-2026-21654008",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.266010+00:00"
+  },
+  {
+    "activity_id": "0d33433a7b5ab998",
+    "title": "[Yew Tee CC SCEC & Yew Tee AAC] Fitness Square Dance (January 2026 - June 2026)",
+    "start_datetime_raw": "01 Jan 2026 - 30 Jun 2026 7:30 AM - 8:30 AM",
+    "start_datetime_iso": "",
+    "location": "Yew Tee CC",
+    "description": "[Yew Tee CC SCEC & Yew Tee AAC] Fitness Square Dance (January 2026 - June 2026)",
+    "url": "https://www.onepa.gov.sg/events/yew-tee-cc-scec-yew-tee-aac-fitness-square-dance-january-2026-june-2026-64635909",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.242033+00:00"
+  },
+  {
+    "activity_id": "254fbf847ac68748",
+    "title": "[Yew Tee CC SCEC & Yew Tee AAC] Seniors' Haircut (5 April 2026)",
+    "start_datetime_raw": "05 Apr 2026 10:00 AM - 12:00 PM",
+    "start_datetime_iso": "",
+    "location": "Yew Tee CC",
+    "description": "[Yew Tee CC SCEC & Yew Tee AAC] Seniors' Haircut (5 April 2026)",
+    "url": "https://www.onepa.gov.sg/events/yew-tee-cc-scec-yew-tee-aac-seniors-haircut-5-april-2026-19835286",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.252027+00:00"
+  },
+  {
+    "activity_id": "41c4867606af364e",
+    "title": "[Yew Tee CC SCEC & Yew Tee AAC] Silver Strength - A 13 Weeks Programme",
+    "start_datetime_raw": "05 Jan 2026 - 13 Apr 2026 7:30 PM - 8:30 PM",
+    "start_datetime_iso": "",
+    "location": "Yew Tee CC",
+    "description": "[Yew Tee CC SCEC & Yew Tee AAC] Silver Strength - A 13 Weeks Programme",
+    "url": "https://www.onepa.gov.sg/events/yew-tee-cc-scec-yew-tee-aac-silver-strength-a-13-weeks-programme-61451665",
+    "source": "onepa",
+    "source_confidence": "high",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:08.267010+00:00"
+  },
+  {
+    "activity_id": "73cd8e7a9befbe9c",
+    "title": "​​Healthy Ageing Hub",
+    "start_datetime_raw": "",
+    "start_datetime_iso": "",
+    "location": "Singapore",
+    "description": "Clear Search Search Sign up now My e-Services My e-Services Search Menu Healthcare Directory Help Centre Highlights & Insights Expert Voices Health Safety Advisory Latest Latest Q&A: Wrist and Chronic Back Pain Read more Q&A: Skin Bumps Read more Trending Trending Q&A: Spicy Food",
+    "url": "https://www.healthhub.sg/",
+    "source": "healthhub",
+    "source_confidence": "low",
+    "status": "undated",
+    "last_seen_at": "2026-03-18T03:26:22.304153+00:00"
+  },
+  {
+    "activity_id": "361df1efa3654e46",
+    "title": "Report Vulnerability",
+    "start_datetime_raw": "30 Jan 2026",
+    "start_datetime_iso": "2026-01-30T00:00:00+00:00",
+    "location": "ement Terms of Use Reach © 2026, Digital for Life Last updated 30 Jan 2026",
+    "description": "Report Vulnerability Supported Browser Privacy Statement Terms of Use Reach © 2026, Digital for Life Last updated 30 Jan 2026",
+    "url": "https://www.tech.gov.sg/report_vulnerability",
+    "source": "digitalforlife",
+    "source_confidence": "medium",
     "status": "upcoming",
-    "last_seen_at": "2026-03-16T16:33:17.028439+00:00"
+    "last_seen_at": "2026-03-18T03:26:18.219706+00:00"
   },
   {
     "activity_id": "95210a183805f14f",
@@ -881,20 +3078,7 @@
     "source": "eventbrite",
     "source_confidence": "high",
     "status": "upcoming",
-    "last_seen_at": "2026-03-16T16:33:17.026810+00:00"
-  },
-  {
-    "activity_id": "2f2d53f519c6af3e",
-    "title": "Young Voices Day 2026",
-    "start_datetime_raw": "Friday at 9:30",
-    "start_datetime_iso": "2026-03-20T09:30:00+00:00",
-    "location": "Voices of Singapore Choral Hub @ Enabling Village",
-    "description": "Eventbrite listing for seniors-related activities",
-    "url": "https://www.eventbrite.sg/e/young-voices-day-2026-tickets-1980924099306?aff=ebdssbdestsearch",
-    "source": "eventbrite",
-    "source_confidence": "high",
-    "status": "upcoming",
-    "last_seen_at": "2026-03-16T16:33:17.028715+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.521475+00:00"
   },
   {
     "activity_id": "eac88df79120896c",
@@ -903,11 +3087,11 @@
     "start_datetime_iso": "2026-03-21T07:30:00+00:00",
     "location": "Singapore",
     "description": "Meetup seniors-related event listing",
-    "url": "https://www.meetup.com/letsbehappy/events/313447012/?recId=ecfd9f7a-c52f-4ac7-bebc-ff8451045b7c&recSource=event-search&searchId=b003beda-399d-4b3f-850a-3bbe956b326d&eventOrigin=find_page%24all",
+    "url": "https://www.meetup.com/letsbehappy/events/313447012/?recId=bef88ca4-79cf-4c6e-91ed-f0d26663f8fa&recSource=event-search&searchId=cf73b37f-6945-45a5-b743-95b1fe4f819c&eventOrigin=find_page%24all",
     "source": "meetup",
     "source_confidence": "medium",
     "status": "upcoming",
-    "last_seen_at": "2026-03-16T16:33:22.103484+00:00"
+    "last_seen_at": "2026-03-18T03:26:13.032638+00:00"
   },
   {
     "activity_id": "7a9162f7ff4f122e",
@@ -920,20 +3104,46 @@
     "source": "eventbrite",
     "source_confidence": "high",
     "status": "upcoming",
-    "last_seen_at": "2026-03-16T16:33:17.027026+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.522477+00:00"
   },
   {
-    "activity_id": "451f0cfcde626616",
-    "title": "JuniorDevSG - Code & Tell March 2026 Tue, Mar 24 · 7:00 PM SST by Junior Developers Singapore 4.6 20 attendees",
+    "activity_id": "706a2b45d727e1f3",
+    "title": "Geylang River Walk Sat, Mar 21 · 6:00 PM SST by Project 50 4.8 11 attendees",
+    "start_datetime_raw": "Sat, Mar 21 · 6:00 PM SST",
+    "start_datetime_iso": "2026-03-21T18:00:00+00:00",
+    "location": "Singapore",
+    "description": "Meetup seniors-related event listing",
+    "url": "https://www.meetup.com/project-50/events/313758117/?recId=bef88ca4-79cf-4c6e-91ed-f0d26663f8fa&recSource=event-search&searchId=cf73b37f-6945-45a5-b743-95b1fe4f819c&eventOrigin=find_page%24all",
+    "source": "meetup",
+    "source_confidence": "medium",
+    "status": "upcoming",
+    "last_seen_at": "2026-03-18T03:26:13.039849+00:00"
+  },
+  {
+    "activity_id": "307bf2c36e9075b0",
+    "title": "Softball Training for Diamond Warriors Regulars and Newbies Sun, Mar 22 · 3:00 PM SST by Diamond Warriors Softball 4.9 8 attendees",
+    "start_datetime_raw": "Sun, Mar 22 · 3:00 PM SST",
+    "start_datetime_iso": "2026-03-22T15:00:00+00:00",
+    "location": "Singapore",
+    "description": "Meetup seniors-related event listing",
+    "url": "https://www.meetup.com/diamond-warriors-softball/events/313827729/?recId=bef88ca4-79cf-4c6e-91ed-f0d26663f8fa&recSource=event-search&searchId=cf73b37f-6945-45a5-b743-95b1fe4f819c&eventOrigin=find_page%24all",
+    "source": "meetup",
+    "source_confidence": "medium",
+    "status": "upcoming",
+    "last_seen_at": "2026-03-18T03:26:13.034639+00:00"
+  },
+  {
+    "activity_id": "da1b55c8937dd7fe",
+    "title": "JuniorDevSG - Code & Tell March 2026 Tue, Mar 24 · 7:00 PM SST by Junior Developers Singapore 4.6 26 attendees",
     "start_datetime_raw": "Tue, Mar 24 · 7:00 PM SST",
     "start_datetime_iso": "2026-03-24T19:00:00+00:00",
     "location": "Singapore",
     "description": "Meetup seniors-related event listing",
-    "url": "https://www.meetup.com/junior-developers-singapore/events/313772409/?recId=ecfd9f7a-c52f-4ac7-bebc-ff8451045b7c&recSource=event-search&searchId=b003beda-399d-4b3f-850a-3bbe956b326d&eventOrigin=find_page%24all",
+    "url": "https://www.meetup.com/junior-developers-singapore/events/313772409/?recId=bef88ca4-79cf-4c6e-91ed-f0d26663f8fa&recSource=event-search&searchId=cf73b37f-6945-45a5-b743-95b1fe4f819c&eventOrigin=find_page%24all",
     "source": "meetup",
     "source_confidence": "medium",
     "status": "upcoming",
-    "last_seen_at": "2026-03-16T16:33:22.101196+00:00"
+    "last_seen_at": "2026-03-18T03:26:13.026641+00:00"
   },
   {
     "activity_id": "2661ed6357bcbc80",
@@ -946,20 +3156,20 @@
     "source": "eventbrite",
     "source_confidence": "high",
     "status": "upcoming",
-    "last_seen_at": "2026-03-16T16:33:17.028109+00:00"
+    "last_seen_at": "2026-03-18T03:25:23.530709+00:00"
   },
   {
-    "activity_id": "7d46d15779d95d02",
-    "title": "Continuous Glucose Monitoring: New Opportunities for Data-Driven Health Insights Thu, Mar 26 · 7:00 PM SST by Singapore Longevity and Health Meetup 4.4 1 attendee",
+    "activity_id": "1ffbee7696165582",
+    "title": "Continuous Glucose Monitoring: New Opportunities for Data-Driven Health Insights Thu, Mar 26 · 7:00 PM SST by Singapore Longevity and Health Meetup 4.4 7 attendees",
     "start_datetime_raw": "Thu, Mar 26 · 7:00 PM SST",
     "start_datetime_iso": "2026-03-26T19:00:00+00:00",
     "location": "Singapore",
     "description": "Meetup seniors-related event listing",
-    "url": "https://www.meetup.com/singapore-longevity-and-health-meetup/events/313766190/?recId=ecfd9f7a-c52f-4ac7-bebc-ff8451045b7c&recSource=event-search&searchId=b003beda-399d-4b3f-850a-3bbe956b326d&eventOrigin=find_page%24all",
+    "url": "https://www.meetup.com/singapore-longevity-and-health-meetup/events/313766190/?recId=bef88ca4-79cf-4c6e-91ed-f0d26663f8fa&recSource=event-search&searchId=cf73b37f-6945-45a5-b743-95b1fe4f819c&eventOrigin=find_page%24all",
     "source": "meetup",
     "source_confidence": "medium",
     "status": "upcoming",
-    "last_seen_at": "2026-03-16T16:33:22.101948+00:00"
+    "last_seen_at": "2026-03-18T03:26:13.028626+00:00"
   },
   {
     "activity_id": "78f723dced258b1c",
@@ -968,11 +3178,11 @@
     "start_datetime_iso": "2026-03-28T18:30:00+00:00",
     "location": "Singapore",
     "description": "Meetup seniors-related event listing",
-    "url": "https://www.meetup.com/prime-midlife/events/313616451/?recId=ecfd9f7a-c52f-4ac7-bebc-ff8451045b7c&recSource=event-search&searchId=b003beda-399d-4b3f-850a-3bbe956b326d&eventOrigin=find_page%24all",
+    "url": "https://www.meetup.com/prime-midlife/events/313616451/?recId=bef88ca4-79cf-4c6e-91ed-f0d26663f8fa&recSource=event-search&searchId=cf73b37f-6945-45a5-b743-95b1fe4f819c&eventOrigin=find_page%24all",
     "source": "meetup",
     "source_confidence": "medium",
     "status": "upcoming",
-    "last_seen_at": "2026-03-16T16:33:22.100328+00:00"
+    "last_seen_at": "2026-03-18T03:26:13.024621+00:00"
   },
   {
     "activity_id": "db980ebc72215f65",
@@ -981,10 +3191,10 @@
     "start_datetime_iso": "2026-03-29T15:00:00+00:00",
     "location": "Singapore",
     "description": "Meetup seniors-related event listing",
-    "url": "https://www.meetup.com/singaporedatingevents/events/313740154/?recId=ecfd9f7a-c52f-4ac7-bebc-ff8451045b7c&recSource=event-search&searchId=b003beda-399d-4b3f-850a-3bbe956b326d&eventOrigin=find_page%24all",
+    "url": "https://www.meetup.com/singaporedatingevents/events/313740154/?recId=bef88ca4-79cf-4c6e-91ed-f0d26663f8fa&recSource=event-search&searchId=cf73b37f-6945-45a5-b743-95b1fe4f819c&eventOrigin=find_page%24all",
     "source": "meetup",
     "source_confidence": "medium",
     "status": "upcoming",
-    "last_seen_at": "2026-03-16T16:33:22.104659+00:00"
+    "last_seen_at": "2026-03-18T03:26:13.036661+00:00"
   }
 ]
